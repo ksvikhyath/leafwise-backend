@@ -4,8 +4,8 @@ python-multipart==0.0.9
 torch==2.9.0
 torchvision
 transformers==4.40.0
-huggingface_hub==0.22.2
-Pillow==10.3.0
+huggingface_hub==0.23.4
+Pillow==11.1.0
 numpy==1.26.4
 scikit-learn==1.4.2
 joblib==1.4.0
