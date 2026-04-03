@@ -1,0 +1,3245 @@
+{
+  "Aloe vera (Aloe vera)": {
+    "canonical_name": "Aloe vera (Aloe vera)",
+    "plant_name": "Aloe vera (Aloe vera)",
+    "common_name": "Aloe vera",
+    "scientific_name": "Aloe vera",
+    "aliases": [
+      "Aloe vera (Aloe vera)",
+      "Aloe vera",
+      "Aloe barbadensis miller"
+    ],
+    "medicinal_uses": [
+      "Soothes burns, sunburns, and skin irritations",
+      "Used in treatment of psoriasis and eczema",
+      "Aids digestion and relieves constipation",
+      "Reduces dental plaque and treats mouth ulcers",
+      "Lowers blood sugar in type 2 diabetics",
+      "Anti-inflammatory and antioxidant properties",
+      "Used to treat burns, skin irritations, and wounds. The gel soothes sunburns and reduces inflammation. Also used for digestive health, constipation relief, and as an antioxidant."
+    ],
+    "cultivation": [
+      "Grows well in tropical and subtropical climates across India",
+      "Prefers sandy or loamy, well-drained soil with pH 7.0–8.5",
+      "Plant in full sunlight; tolerates partial shade",
+      "Propagate using offshoots/pups from mother plant",
+      "Space plants 60–90 cm apart",
+      "Avoid waterlogging; raised beds recommended",
+      "Grows well in sandy, well-drained soil with full sunlight. Requires minimal watering — water deeply but infrequently. Propagate using offshoots. Ideal for dry and semi-arid regions."
+    ],
+    "care_instructions": [
+      "Water sparingly — once every 1–2 weeks; overwatering causes root rot",
+      "No heavy fertilization needed; occasional compost is sufficient",
+      "Remove dead leaves from the base regularly",
+      "Protect from frost in northern India",
+      "Harvest outer mature leaves by cutting at the base",
+      "Avoid overwatering as roots rot easily. Use pots with drainage holes if grown indoors. Fertilize sparingly — once every 2 months with balanced fertilizer."
+    ],
+    "income_potential": [
+      "High — widely used in cosmetics, pharmaceuticals, and FMCG. Gel fetches ₹8,000–₹15,000 per quintal. Contract farming opportunities available with companies like Patanjali and Dabur.",
+      "High demand in cosmetics, pharmaceuticals, and food industries. Gel extract fetches ₹25–₹50 per litre. An acre can yield significant income with low input costs."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Amla (Phyllanthus emblica)": {
+    "canonical_name": "Amla (Phyllanthus emblica)",
+    "plant_name": "Amla (Phyllanthus emblica)",
+    "common_name": "Amla",
+    "scientific_name": "Phyllanthus emblica",
+    "aliases": [
+      "Amla (Phyllanthus emblica)",
+      "Amla",
+      "Phyllanthus emblica",
+      "Indian Gooseberry"
+    ],
+    "medicinal_uses": [
+      "Richest natural source of Vitamin C; boosts immunity",
+      "Improves hair health and prevents premature greying",
+      "Supports liver function and detoxification",
+      "Lowers cholesterol and blood sugar",
+      "Improves digestion and relieves hyperacidity",
+      "Used in Chyawanprash and Triphala formulations",
+      "Rich in Vitamin C and antioxidants. Used to boost immunity, improve hair and skin health, aid digestion, and manage diabetes. Key ingredient in Triphala and Chyawanprash."
+    ],
+    "cultivation": [
+      "Grows in tropical and subtropical India; major states: UP, MP, Rajasthan, Gujarat",
+      "Prefers well-drained loamy or sandy loam soil, pH 6.5–9.5",
+      "Semi-arid climate with 630–800 mm annual rainfall is ideal",
+      "Propagate by budding or grafting; seed propagation also possible",
+      "Plant at 8×8 m spacing; pit size 60×60×60 cm",
+      "Begins fruiting in 7–8 years from seed; 3–4 years from grafted plants",
+      "Grows in a wide range of soils but prefers well-drained loamy soil. Drought-tolerant once established. Propagated through seeds or grafting. Bears fruit after 5–7 years."
+    ],
+    "care_instructions": [
+      "Irrigate during dry periods; drip irrigation preferred",
+      "Apply organic manure and NPK fertilizers annually",
+      "Prune dead or crossing branches after harvest",
+      "Harvest from November to February when fruits turn yellowish-green",
+      "Watch for fruit borer and bark-eating caterpillars",
+      "Prune dead branches annually. Apply organic manure during monsoon. Protect young plants from frost. Minimal pest issues but watch for bark-eating caterpillars."
+    ],
+    "income_potential": [
+      "Very High — fresh fruit sells at ₹20–₹50/kg; processed products (oil, powder, candy) yield 3–5x more. Amla orchards yield 50–200 kg/tree/year after maturity.",
+      "Fresh fruit sells at ₹20–₹50/kg. Dried amla, powder, and juice fetch premium prices. Highly profitable in health product markets."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Amruthaballi (Tinospora cordifolia)": {
+    "canonical_name": "Amruthaballi (Tinospora cordifolia)",
+    "plant_name": "Amruthaballi (Tinospora cordifolia)",
+    "common_name": "Amruthaballi",
+    "scientific_name": "Tinospora cordifolia",
+    "aliases": [
+      "Amruthaballi (Tinospora cordifolia)",
+      "Amruthaballi",
+      "Tinospora cordifolia",
+      "Giloy / Heart-leaved Moonseed"
+    ],
+    "medicinal_uses": [
+      "Boosts immunity and used as an adaptogen",
+      "Treats chronic fever including dengue and malaria",
+      "Anti-inflammatory; used in arthritis treatment",
+      "Detoxifies the blood and liver",
+      "Manages diabetes by reducing blood sugar",
+      "Used in Ayurvedic formulation 'Guduchi' (Tinospora cordifolia)",
+      "Renowned for boosting immunity and fighting fever including dengue and chikungunya. Used in Ayurveda to treat arthritis, diabetes, and as a general tonic."
+    ],
+    "cultivation": [
+      "Tropical climber; grows well in Karnataka, Kerala, Tamil Nadu, AP",
+      "Prefers warm, humid climate with partial shade",
+      "Grows in any well-drained soil; tolerates poor soils",
+      "Propagate via stem cuttings (15–20 cm long)",
+      "Train on trees, trellises, or fences",
+      "Grows rapidly once established; minimal inputs needed",
+      "Grows as a climbing vine on trees. Propagated through stem cuttings. Thrives in tropical and subtropical climates with moderate water. Grows in almost any well-drained soil."
+    ],
+    "care_instructions": [
+      "Water regularly during dry periods",
+      "Mulch around base to retain moisture",
+      "Prune excess growth to manage spread",
+      "Harvest stems and leaves after 1 year of growth",
+      "Grows perennially with minimal maintenance",
+      "Provide a trellis or host tree to climb. Water moderately. Prune vigorously growing stems to encourage branching. Minimal fertilizer needed."
+    ],
+    "income_potential": [
+      "Moderate to High — dried stem (Guduchi) sells at ₹30–₹80/kg. Demand from Ayurvedic manufacturers is strong. Often grown as an intercrop.",
+      "Stems sell at ₹30–₹60/kg dry weight. High demand from Ayurvedic manufacturers. One vine can produce several kilograms of stem annually."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "ashoka (Saraca asoca)": {
+    "canonical_name": "ashoka (Saraca asoca)",
+    "plant_name": "ashoka (Saraca asoca)",
+    "common_name": "ashoka",
+    "scientific_name": "Saraca asoca",
+    "aliases": [
+      "ashoka (Saraca asoca)",
+      "ashoka",
+      "Saraca asoca",
+      "Seethaashoka",
+      "Ashoka Tree"
+    ],
+    "medicinal_uses": [
+      "Key herb for women's health; regulates menstrual disorders",
+      "Anti-inflammatory; relieves uterine pain",
+      "Used in treatment of leucorrhoea and menorrhagia",
+      "Bark extract supports hormonal balance",
+      "Antispasmodic properties",
+      "Used in classical Ayurvedic formulation 'Ashokarishta'",
+      "Bark is used for uterine disorders, menstrual irregularities, and hormonal imbalance in women. Important ingredient in Ashokarishta — an Ayurvedic formulation."
+    ],
+    "cultivation": [
+      "Native to Indian subcontinent; grows in Kerala, Karnataka, Bengal, Northeast India",
+      "Prefers moist, tropical climate with partial shade",
+      "Thrives in rich, well-drained loamy soil",
+      "Propagate by seeds or stem cuttings",
+      "Often grown as an ornamental-cum-medicinal tree",
+      "Plant at 5×5 m spacing in orchards",
+      "Tropical evergreen tree grown in well-drained soil. Propagated through seeds. Grows in humid conditions with regular rainfall. Slow-growing tree."
+    ],
+    "care_instructions": [
+      "Water regularly, especially in dry seasons",
+      "Apply compost and organic mulch annually",
+      "Minimal pruning needed; remove dead branches",
+      "Slow-growing tree; bark harvest begins after 5–6 years",
+      "Protect young plants from grazing animals",
+      "Water regularly when young. Protect from frost. Harvest bark sustainably — strip only partial bark from mature trees. Grows well in partial shade."
+    ],
+    "income_potential": [
+      "Moderate — bark sold to Ayurvedic companies at ₹40–₹100/kg (dried). Tree has ornamental value too. Demand is consistent from pharmaceutical sector.",
+      "High demand from Ayurvedic pharmaceutical industry. Bark sells at ₹50–₹100/kg. Sustainable bark harvesting without felling tree is practiced."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Asiatic pennywort (Centella asiatica)": {
+    "canonical_name": "Asiatic pennywort (Centella asiatica)",
+    "plant_name": "Asiatic pennywort (Centella asiatica)",
+    "common_name": "Asiatic pennywort",
+    "scientific_name": "Centella asiatica",
+    "aliases": [
+      "Asiatic pennywort (Centella asiatica)",
+      "Asiatic pennywort",
+      "Centella asiatica"
+    ],
+    "medicinal_uses": [
+      "Enhances memory, cognitive function, and focus (Mandukparni/Brahmi)",
+      "Treats anxiety, stress, and mild depression",
+      "Promotes wound healing and skin regeneration",
+      "Used for managing leprosy and psoriasis traditionally",
+      "Anti-inflammatory and antioxidant properties",
+      "Supports liver health and detoxification"
+    ],
+    "cultivation": [
+      "Grows wild in marshy, moist areas across India",
+      "Cultivated in Karnataka, Kerala, West Bengal, Assam",
+      "Prefers waterlogged or moist soil; grows near water bodies",
+      "Propagate by runners/stolons or stem cuttings",
+      "Grows well in partial shade to full sun",
+      "Can be grown in pots or containers with moist soil"
+    ],
+    "care_instructions": [
+      "Keep soil consistently moist or wet",
+      "Apply diluted liquid manure every 2–3 weeks",
+      "Harvest leaves after 60–90 days of planting",
+      "Multiple harvests possible per year",
+      "Watch for fungal diseases in waterlogged conditions"
+    ],
+    "income_potential": [
+      "Moderate — fresh herb sells at ₹20–₹50/kg; dried powder ₹200–₹500/kg. Used in cosmetics and nutraceuticals. Easy to grow with quick returns."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Astma weed (Euphorbia hirta)": {
+    "canonical_name": "Astma weed (Euphorbia hirta)",
+    "plant_name": "Astma weed (Euphorbia hirta)",
+    "common_name": "Astma weed",
+    "scientific_name": "Euphorbia hirta",
+    "aliases": [
+      "Astma weed (Euphorbia hirta)",
+      "Astma weed",
+      "Euphorbia hirta",
+      "Asthma Weed / Euphorbia"
+    ],
+    "medicinal_uses": [
+      "Traditionally used to treat respiratory conditions including asthma and bronchitis. Also used for dysentery, diarrhea, and as an anti-inflammatory agent."
+    ],
+    "cultivation": [
+      "Grows as a weed in open disturbed areas. Self-propagating through seeds. Prefers warm and humid conditions. Collected wild rather than cultivated commercially."
+    ],
+    "care_instructions": [
+      "Minimal care needed — grows wild. Allow natural seeding for continued harvest. Avoid using herbicides in collection areas."
+    ],
+    "income_potential": [
+      "Sold dry to herbal medicine companies at ₹15–₹30/kg. Low-investment collection opportunity for farmers with uncultivated land."
+    ],
+    "source_files": [
+      "plant_knowledge.json"
+    ]
+  },
+  "Bamboo (Bambusa vulgaris)": {
+    "canonical_name": "Bamboo (Bambusa vulgaris)",
+    "plant_name": "Bamboo (Bambusa vulgaris)",
+    "common_name": "Bamboo",
+    "scientific_name": "Bambusa vulgaris",
+    "aliases": [
+      "Bamboo (Bambusa vulgaris)",
+      "Bamboo",
+      "Bambusa vulgaris"
+    ],
+    "medicinal_uses": [
+      "Bamboo shoots reduce cholesterol and aid digestion",
+      "Tabashir (bamboo silica) used for respiratory conditions",
+      "Anti-inflammatory and antioxidant properties in leaves",
+      "Used in treatment of stomach disorders in tribal medicine",
+      "Bamboo leaf extract shows anti-diabetic activity",
+      "Applied externally to treat skin infections",
+      "Young shoots have nutritional and medicinal value. Leaves used to treat fever and as a mild sedative. Silica-rich tissues used in respiratory and bone health remedies."
+    ],
+    "cultivation": [
+      "Grows across India; major cultivation in Northeast, Kerala, Karnataka, Odisha",
+      "Prefers tropical/subtropical climate with 1200–4000 mm rainfall",
+      "Grows in any well-drained fertile soil",
+      "Propagate by rhizome division, culm cuttings, or tissue culture",
+      "Plant at 4×4 m or 5×5 m spacing",
+      "Clumping varieties preferred for controlled cultivation",
+      "Grows rapidly in tropical and subtropical areas. Clumping varieties ideal for farmers. Thrives in loamy well-drained soil with regular rainfall."
+    ],
+    "care_instructions": [
+      "Water regularly for first 2 years until established",
+      "Apply nitrogen-rich fertilizer or compost annually",
+      "Remove old and dead culms each year",
+      "Harvest culms after 3–5 years; stagger harvesting",
+      "Manage clump size by thinning regularly",
+      "Thin overcrowded culms annually. Water well during dry season. Apply nitrogen-rich fertilizer. Protect young shoots from deer and cattle."
+    ],
+    "income_potential": [
+      "High — timber, shoots, crafts, and medicinal uses. Shoots sell at ₹40–₹80/kg. Bamboo poles ₹50–₹200 each. Government incentives available under National Bamboo Mission.",
+      "Multiple income streams: timber, shoot (vegetable), charcoal, handicrafts. Shoots sell at ₹40–₹100/kg in urban markets."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Basale (Basella alba)": {
+    "canonical_name": "Basale (Basella alba)",
+    "plant_name": "Basale (Basella alba)",
+    "common_name": "Basale",
+    "scientific_name": "Basella alba",
+    "aliases": [
+      "Basale (Basella alba)",
+      "Basale",
+      "Basella alba"
+    ],
+    "medicinal_uses": [
+      "Leaves used as natural laxative and cooling agent",
+      "Topical application soothes burns and skin inflammations",
+      "Used in treatment of dandruff and hair loss",
+      "Rich in iron; helpful in managing anaemia",
+      "Leaf mucilage used for wound healing",
+      "Nutritive herb rich in Vitamin C and A"
+    ],
+    "cultivation": [
+      "Malabar spinach; widely grown in Karnataka, Kerala, Bengal, and Assam",
+      "Prefers warm, humid tropical climate",
+      "Grows in well-drained fertile loamy soil",
+      "Propagate by stem cuttings (15–20 cm)",
+      "Train on trellises or fences",
+      "Grows quickly; first harvest within 4–6 weeks"
+    ],
+    "care_instructions": [
+      "Water regularly; does not tolerate drought",
+      "Apply organic manure or compost at planting",
+      "Pinch growing tips to encourage bushy growth",
+      "Harvest tender leaves and shoots regularly",
+      "Grows perennially in warm climates"
+    ],
+    "income_potential": [
+      "Moderate — sold as leafy vegetable in local markets at ₹10–₹25/bunch. Easy, fast-growing crop with multiple harvests. Popular in urban kitchen gardens."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Betel (Piper betle)": {
+    "canonical_name": "Betel (Piper betle)",
+    "plant_name": "Betel (Piper betle)",
+    "common_name": "Betel",
+    "scientific_name": "Piper betle",
+    "aliases": [
+      "Betel (Piper betle)",
+      "Betel",
+      "Piper betle",
+      "Betel Leaf"
+    ],
+    "medicinal_uses": [
+      "Stimulates digestion and acts as a carminative",
+      "Antimicrobial; used as mouth freshener and anti-plaque agent",
+      "Leaf extract used for wound healing and antiseptic purposes",
+      "Reduces inflammation and pain in traditional use",
+      "Used in treatment of constipation and respiratory issues",
+      "Leaf oil has antifungal properties",
+      "Leaves have antiseptic, anti-inflammatory, and digestive properties. Used to treat bad breath, cough, wounds, and as a mild stimulant. Chewed with areca nut traditionally."
+    ],
+    "cultivation": [
+      "Grown across India; major states: AP, Telangana, Bengal, UP, Odisha",
+      "Prefers warm, humid climate; sensitive to frost and drought",
+      "Needs partial shade; grown in 'baroja' (specially constructed structures)",
+      "Propagate by stem cuttings with 2–3 nodes",
+      "Requires support (bamboo or wooden poles) for climbing",
+      "Plant spacing: 30×30 cm in beds",
+      "Grows as a climbing vine in humid, shaded conditions. Requires a host structure (bamboo/areca). Rich, well-drained soil preferred. Regular irrigation essential."
+    ],
+    "care_instructions": [
+      "Water frequently; needs consistent moisture but no waterlogging",
+      "Apply organic manure every 2–3 months",
+      "Regular weeding is essential",
+      "Harvest leaves from 10 months onwards",
+      "Susceptible to Phytophthora rot; ensure good drainage and aeration",
+      "Maintain shade — direct sunlight damages leaves. Water daily in dry weather. Harvest mature leaves carefully without damaging vines. Fertilize with organic compost monthly."
+    ],
+    "income_potential": [
+      "High — fresh betel leaves fetch ₹100–₹500 per hundred leaves depending on variety. Steady demand in paan markets. High-labor crop but high returns per unit area.",
+      "High-value cash crop. Leaves sell at ₹2–₹5 per leaf in bulk. High year-round demand from pan shops and pharmaceutical industry."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Bhrami (Bacopa monnieri)": {
+    "canonical_name": "Bhrami (Bacopa monnieri)",
+    "plant_name": "Bhrami (Bacopa monnieri)",
+    "common_name": "Bhrami",
+    "scientific_name": "Bacopa monnieri",
+    "aliases": [
+      "Bhrami (Bacopa monnieri)",
+      "Bhrami",
+      "Bacopa monnieri",
+      "Brahmi"
+    ],
+    "medicinal_uses": [
+      "Powerful brain tonic; enhances memory and learning",
+      "Used to treat epilepsy, insomnia, and mental fatigue",
+      "Antioxidant properties protect neurons from oxidative damage",
+      "Reduces anxiety and promotes calmness",
+      "Used in Ayurvedic formulations like Brahmi Ghrita",
+      "Anti-inflammatory and adaptogenic herb",
+      "Renowned brain tonic — improves memory, concentration, and cognitive function. Used for anxiety, epilepsy, stress, and as an adaptogen in Ayurveda."
+    ],
+    "cultivation": [
+      "Bacopa monnieri; grows in marshy areas across India",
+      "Major cultivation in Uttar Pradesh, Kerala, Andhra Pradesh",
+      "Prefers waterlogged, moist soil or shallow water",
+      "Propagate by stem cuttings; runners spread naturally",
+      "Grows well in full sun to partial shade",
+      "Can be grown in pots kept in water",
+      "Grows in marshy, waterlogged areas and along river banks. Can be grown in pots with continuous moisture. Propagated through runners or cuttings."
+    ],
+    "care_instructions": [
+      "Maintain consistent soil moisture or grow in shallow water",
+      "Apply liquid fertilizer every 2–3 weeks",
+      "Harvest by cutting 5–6 cm above base every 4–6 weeks",
+      "Multiple harvests possible per season",
+      "Watch for aphids; use neem oil spray",
+      "Keep soil consistently moist. Grows well in partial shade. Harvest aerial parts leaving roots intact for regrowth. Avoid chemical pesticides."
+    ],
+    "income_potential": [
+      "High — dried herb sells at ₹150–₹400/kg. Huge demand in Ayurvedic and nutraceutical industries. Brahmi powder and extracts are premium export products.",
+      "Very high demand from pharmaceutical and nutraceutical industries. Dried herb sells at ₹60–₹120/kg. Growing export market."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Black turmeric (Curcuma caesia)": {
+    "canonical_name": "Black turmeric (Curcuma caesia)",
+    "plant_name": "Black turmeric (Curcuma caesia)",
+    "common_name": "Black turmeric",
+    "scientific_name": "Curcuma caesia",
+    "aliases": [
+      "Black turmeric (Curcuma caesia)",
+      "Black turmeric",
+      "Curcuma caesia"
+    ],
+    "medicinal_uses": [
+      "Rare variety with blue-black rhizomes; highly valued in tribal medicine",
+      "Used for epilepsy, asthma, and tumour-related treatments",
+      "Anti-cancer properties studied in modern research",
+      "Powerful anti-inflammatory and analgesic effects",
+      "Used in treatment of leprosy and skin diseases",
+      "Rhizome paste applied for joint pain relief"
+    ],
+    "cultivation": [
+      "Curcuma caesia; native to Northeast India and Madhya Pradesh",
+      "Prefers shaded, moist tropical forest-like conditions",
+      "Rich, well-drained loamy soil with organic matter",
+      "Propagate by rhizome pieces (3–5 cm with buds)",
+      "Plant in April–May; harvested after 8–9 months",
+      "Avoid waterlogging; raised beds preferred"
+    ],
+    "care_instructions": [
+      "Water regularly; maintain soil moisture",
+      "Mulch with dry leaves or straw to retain moisture",
+      "Apply organic manure at planting and mid-season",
+      "Harvest when leaves turn yellow (November–December)",
+      "Store rhizomes in dry, cool conditions"
+    ],
+    "income_potential": [
+      "Very High — rare and premium herb. Rhizomes sell at ₹500–₹2000/kg depending on purity and market. Export demand from Southeast Asia and Europe. Limited supply boosts prices."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "camphor (Cinnamomum camphora)": {
+    "canonical_name": "camphor (Cinnamomum camphora)",
+    "plant_name": "camphor (Cinnamomum camphora)",
+    "common_name": "camphor",
+    "scientific_name": "Cinnamomum camphora",
+    "aliases": [
+      "camphor (Cinnamomum camphora)",
+      "camphor",
+      "Cinnamomum camphora"
+    ],
+    "medicinal_uses": [
+      "Topical analgesic; relieves muscle pain, arthritis, and joint aches",
+      "Decongestant; relieves nasal congestion and coughs",
+      "Antiseptic; treats minor skin infections and itching",
+      "Anti-inflammatory; reduces redness and swelling",
+      "Used in Ayurveda for cardiac and liver health (small doses)",
+      "Insect repellent; keeps moths and mosquitoes away"
+    ],
+    "cultivation": [
+      "Cinnamomum camphora; grown in Andhra Pradesh, Karnataka, Tamil Nadu",
+      "Subtropical climate; 20–30°C; 150–250 cm rainfall",
+      "Well-drained red laterite or loamy soil",
+      "Propagate by seeds or stem cuttings",
+      "Large tree; spacing 8–10 m",
+      "Camphor extracted from heartwood after 25–40 years; leaves also used"
+    ],
+    "care_instructions": [
+      "Moderate irrigation; drought-tolerant once established",
+      "Minimal fertilizer in early years; compost preferred",
+      "Grow as a long-term investment or agroforestry tree",
+      "Harvest leaves for steam distillation of camphor oil",
+      "Timber also has commercial value"
+    ],
+    "income_potential": [
+      "High (long-term) — camphor oil ₹500–₹2,000/litre; synthetic camphor has largely replaced natural, but natural demand from temples and pharma persists. Long gestation crop; best as agroforestry or temple planting."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Castor (Ricinus communis)": {
+    "canonical_name": "Castor (Ricinus communis)",
+    "plant_name": "Castor (Ricinus communis)",
+    "common_name": "Castor",
+    "scientific_name": "Ricinus communis",
+    "aliases": [
+      "Castor (Ricinus communis)",
+      "Castor",
+      "Ricinus communis",
+      "Castor Plant"
+    ],
+    "medicinal_uses": [
+      "Castor oil used as powerful laxative and purgative",
+      "Anti-inflammatory; oil applied for arthritis and joint pain",
+      "Promotes hair growth and prevents scalp dryness",
+      "Ricinoleic acid in oil has antimicrobial properties",
+      "Used in labour induction in traditional obstetric practice",
+      "Leaves applied externally to reduce inflammation and swelling",
+      "Castor oil is a well-known laxative, anti-inflammatory, and moisturizer. Used for arthritis, skin conditions, hair care, and to induce labor. Seeds are highly toxic — handle with care."
+    ],
+    "cultivation": [
+      "Grown across India; major states: Gujarat, Andhra Pradesh, Rajasthan",
+      "Tolerates a wide range of soils; prefers deep, well-drained loamy soil",
+      "Requires warm climate with 500–750 mm rainfall",
+      "Sow seeds directly in field; germination in 7–10 days",
+      "Plant spacing: 90×90 cm for single-stem varieties",
+      "Semi-commercial crop requiring minimal inputs",
+      "Fast-growing in warm tropical climates. Drought-tolerant. Grows in most soil types. Sow seeds directly. Matures in 3–4 months."
+    ],
+    "care_instructions": [
+      "Drought-tolerant; water only during prolonged dry spells",
+      "Apply NPK fertilizer at sowing",
+      "Weed twice in the first 6 weeks",
+      "Harvest capsules when they turn brown (90–120 days)",
+      "Watch for capsule borer and semilooper caterpillars",
+      "Seeds are poisonous — keep away from children and livestock. Wear gloves during harvest. Needs good drainage. Minimal fertilizer for oil-quality seeds."
+    ],
+    "income_potential": [
+      "High — castor seed yields 4–6 quintals/acre; oil sells at ₹80–₹120/litre. India is world's largest exporter. Good contract farming opportunities with oil mills.",
+      "Oil seed crop with strong industrial demand. Seeds sell at ₹35–₹55/kg. Oil fetches much higher prices in export markets."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Catharanthus (Catharanthus roseus)": {
+    "canonical_name": "Catharanthus (Catharanthus roseus)",
+    "plant_name": "Catharanthus (Catharanthus roseus)",
+    "common_name": "Catharanthus",
+    "scientific_name": "Catharanthus roseus",
+    "aliases": [
+      "Catharanthus (Catharanthus roseus)",
+      "Catharanthus",
+      "Catharanthus roseus",
+      "Periwinkle / Sadabahar"
+    ],
+    "medicinal_uses": [
+      "Source of vincristine and vinblastine — key anti-cancer alkaloids",
+      "Used in treatment of leukaemia and Hodgkin's lymphoma",
+      "Anti-diabetic properties; lowers blood glucose",
+      "Reduces high blood pressure",
+      "Wound healing and antiseptic use in folk medicine",
+      "Antiviral and antimicrobial properties",
+      "Source of vincristine and vinblastine — powerful anti-cancer alkaloids. Used in Ayurveda for diabetes management, blood pressure regulation, and wound healing."
+    ],
+    "cultivation": [
+      "Vinca/Periwinkle; grows in tropical and subtropical India",
+      "Tolerates hot, dry conditions; drought-resistant once established",
+      "Prefers well-drained sandy loam soil",
+      "Sow seeds or propagate by stem cuttings",
+      "Plant spacing: 45×30 cm",
+      "Harvest whole plant including roots for alkaloid extraction",
+      "Extremely easy to grow in tropical and subtropical climates. Drought-tolerant. Propagated by seeds or cuttings. Blooms all year round."
+    ],
+    "care_instructions": [
+      "Water moderately; highly drought-tolerant",
+      "No heavy fertilizer needed; light compost application sufficient",
+      "Deadhead spent flowers to promote continuous blooming",
+      "Harvest aerial parts before or at flowering stage",
+      "Pest-resistant; rarely needs pesticide application",
+      "Full sun preferred. Moderate watering. Pinch tips to encourage bushy growth. Minimal pest issues. Harvest before full flowering for maximum alkaloid content."
+    ],
+    "income_potential": [
+      "Very High — pharmaceutical raw material. Whole plant (dried) fetches ₹40–₹100/kg. Major buyers are pharmaceutical companies extracting vinca alkaloids. Export demand is strong.",
+      "Very high pharmaceutical value. Dried plant material sells at ₹50–₹100/kg. Alkaloid extraction is a major commercial activity."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Citronella grass (Cymbopogon nardus)": {
+    "canonical_name": "Citronella grass (Cymbopogon nardus)",
+    "plant_name": "Citronella grass (Cymbopogon nardus)",
+    "common_name": "Citronella grass",
+    "scientific_name": "Cymbopogon nardus",
+    "aliases": [
+      "Citronella grass (Cymbopogon nardus)",
+      "Citronella grass",
+      "Cymbopogon nardus"
+    ],
+    "medicinal_uses": [
+      "Natural insect and mosquito repellent",
+      "Used in aromatherapy to relieve stress and anxiety",
+      "Antifungal properties; treats fungal skin infections",
+      "Analgesic; relieves headaches and muscle pain",
+      "Anti-inflammatory and diaphoretic (promotes sweating)",
+      "Used in treatment of fever and cold"
+    ],
+    "cultivation": [
+      "Grown in Kerala, Karnataka, Tamil Nadu, and Northeast India",
+      "Requires tropical, warm and humid climate",
+      "Prefers loamy, well-drained fertile soil",
+      "Propagate by slip (root divisions) from mother clumps",
+      "Plant spacing: 60×60 cm",
+      "First harvest of leaves (for oil distillation) after 4–5 months"
+    ],
+    "care_instructions": [
+      "Irrigate regularly; sensitive to drought",
+      "Apply nitrogen-rich fertilizer after each harvest",
+      "Harvest leaves by cutting 15–20 cm above the ground",
+      "3–4 harvests per year possible",
+      "Rejuvenate old clumps every 4–5 years"
+    ],
+    "income_potential": [
+      "High — citronella essential oil fetches ₹1,000–₹2,000/litre. Widely used in mosquito repellent products, soaps, and cosmetics. Growing export demand from natural product companies."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Coffee (Coffea arabica)": {
+    "canonical_name": "Coffee (Coffea arabica)",
+    "plant_name": "Coffee (Coffea arabica)",
+    "common_name": "Coffee",
+    "scientific_name": "Coffea arabica",
+    "aliases": [
+      "Coffee (Coffea arabica)",
+      "Coffee",
+      "Coffea arabica",
+      "Coffee Plant"
+    ],
+    "medicinal_uses": [
+      "Stimulates central nervous system; improves alertness",
+      "Rich in antioxidants; reduces risk of Parkinson's disease",
+      "Lowers risk of type 2 diabetes",
+      "Protective effect against liver cirrhosis and liver cancer",
+      "Reduces risk of certain cancers (colorectal, endometrial)",
+      "Boosts athletic performance and metabolism",
+      "Coffee contains caffeine and antioxidants. Associated with reduced risk of Parkinson's disease, Type 2 diabetes, and liver disease. Used in topical treatments for skin care."
+    ],
+    "cultivation": [
+      "Grown in Karnataka (Coorg), Kerala, Tamil Nadu (Nilgiris)",
+      "Requires tropical highland climate: 15–28°C, 1500–2500 mm rainfall",
+      "Prefers rich, well-drained loamy soil with pH 6.0–6.5",
+      "Propagate by seeds or seedlings in nursery",
+      "Plant under shade trees (silver oak, jackfruit) at 2.7–3 m spacing",
+      "Begins bearing in 3–4 years",
+      "Grows in tropical high-altitude regions with shade. Propagated through seeds or seedlings. Requires well-drained acidic soil and consistent rainfall."
+    ],
+    "care_instructions": [
+      "Regular irrigation during dry months; sensitive to drought",
+      "Apply organic manure and NPK fertilizers annually",
+      "Shade management — prune shade trees to regulate light",
+      "Harvest ripe (red) cherries selectively by hand",
+      "Watch for white stem borer and coffee berry disease",
+      "Provide shade trees. Mulch heavily to retain moisture. Prune primary branches after harvest. Watch for white stem borer and coffee berry disease."
+    ],
+    "income_potential": [
+      "Very High — Arabica and Robusta varieties. Cherry yields 800–2000 kg/acre. Green bean prices ₹150–₹300/kg. Specialty and organic coffees command premium export prices.",
+      "High-value export crop. Arabica beans fetch ₹200–₹400/kg. Karnataka, Tamil Nadu, and Kerala are key growing regions."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Coriender (Coriandrum sativum)": {
+    "canonical_name": "Coriender (Coriandrum sativum)",
+    "plant_name": "Coriender (Coriandrum sativum)",
+    "common_name": "Coriender",
+    "scientific_name": "Coriandrum sativum",
+    "aliases": [
+      "Coriender (Coriandrum sativum)",
+      "Coriender",
+      "Coriandrum sativum",
+      "Coriander",
+      "Coriander / Dhania"
+    ],
+    "medicinal_uses": [
+      "Aids digestion; relieves bloating and flatulence",
+      "Anti-diabetic; reduces blood sugar levels",
+      "Reduces LDL cholesterol and increases HDL",
+      "Antibacterial properties; used to treat UTIs",
+      "Rich in antioxidants; protects against free radical damage",
+      "Used in treatment of conjunctivitis (eye wash)",
+      "Used to improve digestion, lower blood sugar, reduce cholesterol, and as an anti-inflammatory. Seeds and leaves both have distinct medicinal properties."
+    ],
+    "cultivation": [
+      "Grown across India; major states: Rajasthan, MP, AP, Gujarat",
+      "Cool, dry climate preferred for seed crop; warm for leaf crop",
+      "Well-drained, fertile loamy soil with pH 6.5–7.5",
+      "Direct seed sowing; germination in 7–10 days",
+      "Plant spacing: 30×10 cm for seed crop; 15×10 cm for leaf",
+      "Leaf crop ready in 30–40 days; seed crop in 90–120 days",
+      "Cool-season herb grown from seeds. Grows in well-drained, fertile soil. Bolts quickly in heat — best sown in winter. Short crop cycle of 40–60 days."
+    ],
+    "care_instructions": [
+      "Water regularly; avoid waterlogging",
+      "Apply balanced NPK fertilizer at sowing",
+      "Weed 2–3 times in growing season",
+      "Harvest seeds when turning brown (not fully dry)",
+      "Watch for aphids and powdery mildew",
+      "Sow seeds directly — does not transplant well. Water regularly. Harvest outer leaves to promote continuous growth. Stagger plantings every 3 weeks."
+    ],
+    "income_potential": [
+      "High — dry seed sells at ₹80–₹150/kg; green coriander ₹20–₹50/bunch. Spice demand is consistent. Rajasthan and Madhya Pradesh are major exporters of coriander seed.",
+      "Leaves sell at ₹20–₹60/kg. Dried seeds at ₹80–₹120/kg. Continuous planting ensures year-round income. High demand from spice industry."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Curry (Murraya koenigii)": {
+    "canonical_name": "Curry (Murraya koenigii)",
+    "plant_name": "Curry (Murraya koenigii)",
+    "common_name": "Curry",
+    "scientific_name": "Murraya koenigii",
+    "aliases": [
+      "Curry (Murraya koenigii)",
+      "Curry",
+      "Murraya koenigii",
+      "Curry Leaf"
+    ],
+    "medicinal_uses": [
+      "Rich in carbazole alkaloids; anti-cancer and antioxidant properties",
+      "Reduces LDL cholesterol levels",
+      "Controls blood glucose in diabetics",
+      "Anti-inflammatory; relieves pain and arthritis",
+      "Promotes hair health; reduces hair fall",
+      "Aids digestion and treats diarrhoea and dysentery",
+      "Rich in carbazole alkaloids. Used for diabetes management, improving digestion, reducing cholesterol, and hair health. Also anti-inflammatory and antioxidant."
+    ],
+    "cultivation": [
+      "Murraya koenigii; grown across tropical and subtropical India",
+      "Prefers tropical climate; tolerates a range of soils",
+      "Well-drained sandy loam to loamy soil; pH 5.5–7.0",
+      "Propagate by seeds, root suckers, or stem cuttings",
+      "Plant spacing: 60×60 cm to 90×90 cm",
+      "Grows into a shrub/small tree; first harvest after 1–2 years",
+      "Tropical tree grown in warm climates. Propagated through seeds or root suckers. Grows in any well-drained soil. Drought-tolerant once established."
+    ],
+    "care_instructions": [
+      "Water regularly; moderately drought-tolerant once established",
+      "Apply organic compost yearly",
+      "Prune to maintain bushy shape and encourage new leaf growth",
+      "Harvest fresh leaves throughout the year",
+      "Watch for scale insects and caterpillars",
+      "Prune regularly to encourage leaf production. Apply nitrogen-rich fertilizer. Water during dry spells. Remove flower heads to redirect energy to leaves."
+    ],
+    "income_potential": [
+      "Moderate to High — fresh leaves sell at ₹30–₹80/kg in urban markets. Dried curry leaves ₹200–₹400/kg. Essential in South Indian cuisine; steady demand year-round.",
+      "Fresh leaves sell at ₹40–₹100/kg. Year-round demand from households and food industry. Dried and powdered form also in demand."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Doddpathre (Plectranthus amboinicus)": {
+    "canonical_name": "Doddpathre (Plectranthus amboinicus)",
+    "plant_name": "Doddpathre (Plectranthus amboinicus)",
+    "common_name": "Doddpathre",
+    "scientific_name": "Plectranthus amboinicus",
+    "aliases": [
+      "Doddpathre (Plectranthus amboinicus)",
+      "Doddpathre",
+      "Plectranthus amboinicus",
+      "Indian Borage / Ajwain Leaf",
+      "Coleus amboinicus"
+    ],
+    "medicinal_uses": [
+      "Plectranthus amboinicus; used for cough, cold, and sore throat",
+      "Antispasmodic; relieves asthma and bronchitis",
+      "Antimicrobial and antifungal leaf extract",
+      "Applied topically to treat insect bites and skin rashes",
+      "Digestive tonic; relieves indigestion and flatulence",
+      "Used in treatment of ear pain and headaches",
+      "Fleshy leaves used to treat cough, cold, bronchitis, and fever. Leaves are chewed or boiled to prepare medicinal tea. Also used for skin infections."
+    ],
+    "cultivation": [
+      "Common in home gardens across Karnataka, Kerala, Tamil Nadu",
+      "Prefers warm tropical climate",
+      "Grows in any well-drained soil, including sandy or poor soils",
+      "Easily propagated by stem cuttings",
+      "Grows as a succulent herb; requires minimal space",
+      "Grows well in pots and containers",
+      "Extremely easy to grow from cuttings in any warm climate. Grows in pots or garden beds. Prefers well-drained soil and moderate sunlight."
+    ],
+    "care_instructions": [
+      "Water moderately; do not overwater (succulent leaves)",
+      "Minimal fertilizer needed; light compost application is enough",
+      "Pinch tips to promote bushy growth",
+      "Harvest fresh leaves as needed",
+      "Almost pest-free; very low-maintenance plant",
+      "Water moderately — avoid waterlogging. Pinch growing tips for bushy growth. Easy to propagate — shares cuttings freely. Minimal pest problems."
+    ],
+    "income_potential": [
+      "Low to Moderate — mainly grown for household use. Sold in local markets at ₹10–₹20/bunch. Growing awareness of its medicinal properties may increase demand.",
+      "Mainly grown for household medicinal use. Sold in local markets at affordable prices. Low-cost high-utility plant for farmers."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Drumstick (Moringa oleifera)": {
+    "canonical_name": "Drumstick (Moringa oleifera)",
+    "plant_name": "Drumstick (Moringa oleifera)",
+    "common_name": "Drumstick",
+    "scientific_name": "Moringa oleifera",
+    "aliases": [
+      "Drumstick (Moringa oleifera)",
+      "Drumstick",
+      "Moringa oleifera",
+      "Moringa / Drumstick Tree"
+    ],
+    "medicinal_uses": [
+      "Leaves are nutritional powerhouse: rich in iron, Vitamin C, A, calcium",
+      "Anti-diabetic; reduces fasting blood glucose",
+      "Anti-inflammatory and analgesic properties",
+      "Promotes bone health due to high calcium content",
+      "Antibacterial; purifies water (seeds used as coagulant)",
+      "Improves breast milk production in lactating mothers",
+      "Called the 'miracle tree' — leaves packed with vitamins, minerals, and antioxidants. Used to treat malnutrition, diabetes, inflammation, and as a general health booster."
+    ],
+    "cultivation": [
+      "Moringa oleifera; grown across India in tropical and dry regions",
+      "Highly drought-tolerant; grows in arid, semi-arid zones",
+      "Thrives in sandy, loamy, or even poor soils; pH 5.0–9.0",
+      "Plant from seeds or woody stem cuttings (1–1.5 m)",
+      "Spacing: 3×3 m; pit size 45×45×45 cm",
+      "Fast-growing; first harvest within 6–8 months",
+      "Extremely fast-growing tree in tropical regions. Drought-resistant. Grows in poor soils. Propagated through seeds or stem cuttings. Bears pods within 8 months."
+    ],
+    "care_instructions": [
+      "Water occasionally; highly drought-resistant",
+      "Apply organic manure at planting",
+      "Prune to 1 m height after first year to encourage bushy growth",
+      "Harvest pods before fully mature for best taste",
+      "Very pest-resistant; minimal spraying required",
+      "Prune to 1 meter after first harvest to encourage branching. Minimal irrigation needed. Fertilize with organic matter. Grows extremely fast — harvest young pods."
+    ],
+    "income_potential": [
+      "Very High — pods sell at ₹30–₹80/kg; leaf powder ₹300–₹800/kg. India is world's top Moringa exporter. High-density planting (Moringa PKM-1) gives >40 tonnes pods/year/acre.",
+      "Pods sell at ₹15–₹40/kg. Leaves (dried powder) fetch ₹200–₹400/kg in health food markets. Oil from seeds is also valuable."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Eucalyptus (Eucalyptus globulus)": {
+    "canonical_name": "Eucalyptus (Eucalyptus globulus)",
+    "plant_name": "Eucalyptus (Eucalyptus globulus)",
+    "common_name": "Eucalyptus",
+    "scientific_name": "Eucalyptus globulus",
+    "aliases": [
+      "Eucalyptus (Eucalyptus globulus)",
+      "Eucalyptus",
+      "Eucalyptus globulus",
+      "Eucalyptus / Nilgiri"
+    ],
+    "medicinal_uses": [
+      "Essential oil used as decongestant and expectorant",
+      "Treats cough, cold, bronchitis, and asthma",
+      "Antiseptic; used in wound care and mouthwash",
+      "Relieves muscle and joint pain when applied topically",
+      "Insect repellent properties",
+      "Anti-inflammatory and analgesic effects",
+      "Oil from leaves used as a decongestant, antiseptic, and anti-inflammatory. Effective for respiratory infections, colds, and muscle pain. Active ingredient: cineole."
+    ],
+    "cultivation": [
+      "Grown across India as plantation crop; Andhra Pradesh, Punjab, Tamil Nadu",
+      "Adaptable to diverse soils; grows even in waterlogged or saline areas",
+      "Plant in full sunlight",
+      "Propagate by seeds or clonal cuttings",
+      "Spacing: 2×2 m for pulpwood; 3×3 m for timber",
+      "Fast-growing; harvestable in 6–8 years for timber",
+      "Fast-growing tree in tropical and subtropical regions. Grows in various soil types. Requires full sun. Propagated from seeds. Very fast growth — harvest in 5–7 years."
+    ],
+    "care_instructions": [
+      "Minimal irrigation once established",
+      "Apply NPK fertilizer in first 2 years",
+      "Weed control in early years is critical",
+      "Coppices after harvest; multiple rotations from same stump",
+      "Leaves harvested for oil distillation separately",
+      "Plant at proper spacing (3–4 metres). Needs good drainage. Coppice after harvest for continuous production. Monitor for termites in older trees."
+    ],
+    "income_potential": [
+      "High — oil yields 0.5–1.5% from leaves; oil fetches ₹200–₹400/litre. Timber has paper/pulp and construction value. Low-maintenance plantation crop with government incentives.",
+      "Timber, essential oil, and pulp industries. Essential oil fetches ₹300–₹600/litre. Good returns from plantation forestry."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "False daisy (Eclipta alba)": {
+    "canonical_name": "False daisy (Eclipta alba)",
+    "plant_name": "False daisy (Eclipta alba)",
+    "common_name": "False daisy",
+    "scientific_name": "Eclipta alba",
+    "aliases": [
+      "False daisy (Eclipta alba)",
+      "False daisy",
+      "Eclipta alba"
+    ],
+    "medicinal_uses": [
+      "Bhringraj; promotes hair growth and darkens hair colour",
+      "Supports liver health; hepatoprotective properties",
+      "Antiviral; used in treatment of Hepatitis B in Ayurveda",
+      "Anti-inflammatory; treats skin inflammation and eczema",
+      "Improves digestion and relieves stomach disorders",
+      "Used as a nervine tonic in classical Ayurveda"
+    ],
+    "cultivation": [
+      "Eclipta alba; grows wild in moist areas across tropical India",
+      "Cultivated in Madhya Pradesh, Karnataka, West Bengal",
+      "Prefers moist, fertile loamy soil near water bodies",
+      "Propagate by seeds directly sown or transplanted",
+      "Plant spacing: 30×20 cm",
+      "Ready for harvest in 90–120 days"
+    ],
+    "care_instructions": [
+      "Water regularly; thrives in moist conditions",
+      "Apply organic manure before sowing",
+      "Weed regularly in the first month",
+      "Harvest whole plant (aerial parts) at flowering stage",
+      "Multiple harvests possible with ratoon cropping"
+    ],
+    "income_potential": [
+      "High — dried herb sells at ₹80–₹200/kg. Bhringraj oil is a popular commercial product. Strong demand from hair care and Ayurvedic medicine sectors."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Fenugreek (Trigonella foenum-graecum)": {
+    "canonical_name": "Fenugreek (Trigonella foenum-graecum)",
+    "plant_name": "Fenugreek (Trigonella foenum-graecum)",
+    "common_name": "Fenugreek",
+    "scientific_name": "Trigonella foenum-graecum",
+    "aliases": [
+      "Fenugreek (Trigonella foenum-graecum)",
+      "Fenugreek",
+      "Trigonella foenum-graecum"
+    ],
+    "medicinal_uses": [
+      "Lowers blood sugar; widely used for diabetes management",
+      "Improves insulin sensitivity",
+      "Boosts breast milk production in lactating mothers",
+      "Reduces LDL cholesterol",
+      "Anti-inflammatory; relieves joint pain and swelling",
+      "Rich in fibre; aids digestion and relieves constipation"
+    ],
+    "cultivation": [
+      "Grown across India; major states: Rajasthan, Gujarat, MP, Uttarakhand",
+      "Cool, dry climate preferred (Rabi/winter crop)",
+      "Prefers well-drained loamy or sandy loam soil; pH 6.0–7.0",
+      "Direct seed sowing in October–November",
+      "Seed spacing: 25×10 cm rows",
+      "Leaf harvest starts at 25–30 days; seed crop at 90–100 days"
+    ],
+    "care_instructions": [
+      "Water moderately; do not overwater",
+      "Light dose of NPK fertilizer at sowing",
+      "Weed in early stages; plant covers ground quickly",
+      "Harvest seeds when pods turn yellowish-brown",
+      "Watch for powdery mildew in humid conditions"
+    ],
+    "income_potential": [
+      "High — seeds sell at ₹70–₹130/kg; fresh leaves (methi) ₹15–₹40/bunch. Export demand for organic fenugreek seed is growing. Rajasthan is the largest producer."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Gasagase (Papaver somniferum)": {
+    "canonical_name": "Gasagase (Papaver somniferum)",
+    "plant_name": "Gasagase (Papaver somniferum)",
+    "common_name": "Gasagase",
+    "scientific_name": "Papaver somniferum",
+    "aliases": [
+      "Gasagase (Papaver somniferum)",
+      "Gasagase",
+      "Papaver somniferum",
+      "Poppy Seeds / Khus Khus"
+    ],
+    "medicinal_uses": [
+      "Poppy seeds (Papaver somniferum) — used as digestive and nutritive",
+      "Natural sedative; treats insomnia and restlessness",
+      "Relieves pain and headache (analgesic opioid alkaloids in low quantities in seeds)",
+      "Treats diarrhoea and dysentery",
+      "Rich in calcium and magnesium; supports bone health",
+      "Topical paste soothes skin rashes and itching",
+      "Seeds rich in omega-6 fatty acids, calcium, and iron. Used to treat insomnia, cough, and as an analgesic. Poppy seed paste used in digestive remedies."
+    ],
+    "cultivation": [
+      "Cultivated under strict government licence in Rajasthan, Uttar Pradesh, MP",
+      "Cool, dry climate; 10–20°C during growing period",
+      "Well-drained loamy soil; pH 7.0–8.0",
+      "Direct seed sowing in October–November",
+      "Spacing: 30×10 cm",
+      "Ready in 120–150 days; licenced farmers only",
+      "Cool-season crop grown in winter months. Requires well-drained, fertile soil. Sown directly. Regulated crop — requires license in India for opium-related cultivation."
+    ],
+    "care_instructions": [
+      "Irrigate sparingly; sensitive to waterlogging",
+      "Apply balanced NPK fertilizer at sowing",
+      "Control weeds in early growth phase",
+      "Harvest capsules when they turn straw-yellow",
+      "Seeds threshed and dried separately from latex (opium)",
+      "Sow in October–November. Thin seedlings to 15cm spacing. Minimal water in later stages. Check local regulations before large-scale cultivation."
+    ],
+    "income_potential": [
+      "High (under licence) — poppy seed (gasagase) ₹100–₹300/kg; licensed opium (latex) has much higher value under government procurement. Restricted crop; requires NDPS Act licence.",
+      "Seeds sell at ₹600–₹1200/kg in food markets. High-value spice with stable demand. Cultivation regulated by Narcotics Control Bureau."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Ginger (Zingiber officinale)": {
+    "canonical_name": "Ginger (Zingiber officinale)",
+    "plant_name": "Ginger (Zingiber officinale)",
+    "common_name": "Ginger",
+    "scientific_name": "Zingiber officinale",
+    "aliases": [
+      "Ginger (Zingiber officinale)",
+      "Ginger",
+      "Zingiber officinale"
+    ],
+    "medicinal_uses": [
+      "Relieves nausea, vomiting, and morning sickness",
+      "Powerful anti-inflammatory; reduces symptoms of osteoarthritis",
+      "Aids digestion; treats indigestion and stomach upset",
+      "Lowers blood sugar and improves heart disease risk factors",
+      "Anti-cancer properties observed in studies (gingerols)",
+      "Relieves muscle pain and soreness",
+      "Powerful anti-inflammatory and antioxidant. Used for nausea, digestive issues, cold and cough, arthritis pain, and blood sugar regulation. Key ingredient in Ayurvedic formulations."
+    ],
+    "cultivation": [
+      "Grown in Kerala, Meghalaya, Karnataka, Orissa, and Andhra Pradesh",
+      "Requires warm, humid climate; 1500–3000 mm rainfall",
+      "Well-drained, loamy, or red laterite soil with high organic matter",
+      "Propagate by healthy rhizome pieces with 2–3 buds",
+      "Plant in April–May; spacing 25×25 cm; ridges or flat beds",
+      "Shade-loving; grows well as intercrop under coconut",
+      "Grows in humid tropical climates in well-drained, loamy, fertile soil. Propagated through rhizome pieces. Requires partial shade and consistent moisture."
+    ],
+    "care_instructions": [
+      "Mulch heavily with dry leaves or paddy straw at planting",
+      "Irrigate at 7–10 day intervals in dry periods",
+      "Apply organic manure and NPK fertilizer periodically",
+      "Harvest fresh ginger after 6–7 months; dry ginger after 8–9 months",
+      "Watch for rhizome rot (Pythium); ensure drainage",
+      "Mulch heavily to retain moisture. Do not allow waterlogging. Harvest 8–9 months after planting. Cure harvested ginger for storage."
+    ],
+    "income_potential": [
+      "Very High — fresh ginger ₹30–₹100/kg; dry ginger ₹200–₹400/kg. Strong domestic and export demand. Organic ginger commands 30–50% premium. Kerala ginger is GI-tagged.",
+      "Fresh ginger sells at ₹30–₹80/kg. Dried ginger (sunthi) fetches ₹150–₹300/kg. Export quality ginger commands much higher prices."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Golden Shower Tree (Cassia fistula)": {
+    "canonical_name": "Golden Shower Tree (Cassia fistula)",
+    "plant_name": "Golden Shower Tree (Cassia fistula)",
+    "common_name": "Golden Shower Tree",
+    "scientific_name": "Cassia fistula",
+    "aliases": [
+      "Golden Shower Tree (Cassia fistula)",
+      "Golden Shower Tree",
+      "Cassia fistula"
+    ],
+    "medicinal_uses": [
+      "Cassia fistula; bark and pods used as mild laxative",
+      "Anti-fungal leaf extract treats ringworm and skin infections",
+      "Pod pulp used in treatment of constipation in Ayurveda",
+      "Anti-inflammatory and analgesic properties",
+      "Used for treating fever and diabetes in folk medicine",
+      "Antibacterial properties in bark and leaf extracts"
+    ],
+    "cultivation": [
+      "Ornamental and medicinal tree; grown across tropical India",
+      "Highly drought-tolerant once established",
+      "Grows in any soil type; prefers deep, well-drained soil",
+      "Propagate by seeds (pre-soaked 24 hours in hot water)",
+      "Grows to 10–20 m height; medium growth rate",
+      "Used in avenue planting and agroforestry"
+    ],
+    "care_instructions": [
+      "Water young plants regularly for first 1–2 years",
+      "Minimal care once established",
+      "Prune to shape in early years",
+      "Harvest pods (dark brown, mature) for medicinal use",
+      "Extremely low maintenance; long-lived tree"
+    ],
+    "income_potential": [
+      "Moderate — pods and bark sold to herbal traders at ₹20–₹60/kg. Flowers have ornamental value. Mainly grown for multipurpose agroforestry and environmental benefits."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Guava (Psidium guajava)": {
+    "canonical_name": "Guava (Psidium guajava)",
+    "plant_name": "Guava (Psidium guajava)",
+    "common_name": "Guava",
+    "scientific_name": "Psidium guajava",
+    "aliases": [
+      "Guava (Psidium guajava)",
+      "Guava",
+      "Psidium guajava"
+    ],
+    "medicinal_uses": [
+      "Very high Vitamin C content; boosts immunity",
+      "Anti-diarrheal; leaf tea used to treat diarrhoea",
+      "Lowers blood sugar; anti-diabetic properties",
+      "Reduces LDL cholesterol and promotes heart health",
+      "Anti-cancer properties from lycopene in pink varieties",
+      "Leaf extract treats dengue by increasing platelet count",
+      "Leaves and fruit used for diarrhea, diabetes, dengue fever, and as an antioxidant. Rich in lycopene, Vitamin C, and potassium. Leaf decoction used for wound healing."
+    ],
+    "cultivation": [
+      "Grown throughout India; Allahabad, Lucknow, Bihar, MP, Maharashtra",
+      "Grows in a wide range of climates from tropical to subtropical",
+      "Adaptable to diverse soils; prefers well-drained loamy soil; pH 5.0–7.5",
+      "Propagate by air-layering, budding, or grafting",
+      "Spacing: 5–8 m (traditional); 2.5×2.5 m (high-density planting)",
+      "Fruit-bearing starts from 3rd year (grafted plants)",
+      "Tropical fruit tree grown in a wide range of soils. Drought-tolerant. Propagated through grafting or seeds. Starts bearing in 2–3 years."
+    ],
+    "care_instructions": [
+      "Irrigate at 15-day intervals; drip irrigation preferred",
+      "Apply organic manure and NPK fertilizer twice a year",
+      "Prune lightly after each harvest to maintain shape",
+      "Wilt disease (Fusarium) is major threat; select resistant varieties",
+      "Harvest when skin turns light green/yellow",
+      "Prune after each harvest season. Fertilize with potassium for fruit quality. Bag fruits to prevent fruit fly damage. Water regularly during fruit development."
+    ],
+    "income_potential": [
+      "Very High — yield 20–40 tonnes/acre in high-density planting. Sells at ₹20–₹60/kg. Processing for juice, jam, candy adds value. Allahabad Safeda is world-renowned variety.",
+      "Fruit sells at ₹20–₹60/kg. Guava pulp and juice processing adds value. High-yielding variety can earn ₹3–₹5 lakh per acre."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Henna (Lawsonia inermis)": {
+    "canonical_name": "Henna (Lawsonia inermis)",
+    "plant_name": "Henna (Lawsonia inermis)",
+    "common_name": "Henna",
+    "scientific_name": "Lawsonia inermis",
+    "aliases": [
+      "Henna (Lawsonia inermis)",
+      "Henna",
+      "Lawsonia inermis",
+      "Henna / Mehndi"
+    ],
+    "medicinal_uses": [
+      "Antifungal; treats dandruff and scalp infections",
+      "Cooling herb; reduces body temperature when applied to skin",
+      "Leaf paste relieves headache and fever",
+      "Bark used for jaundice and skin diseases in Unani medicine",
+      "Analgesic; soothes skin burns and sunburn",
+      "Used in treatment of boils, wounds, and bruises",
+      "Leaves used for natural hair dyeing, cooling effect, and treating headaches. Applied to skin for fungal infections. Also used for dandruff and scalp health."
+    ],
+    "cultivation": [
+      "Lawsonia inermis; grown in Rajasthan (Sojat), Gujarat, MP",
+      "Prefers hot, dry, arid climate",
+      "Grows in any soil; thrives in sandy, well-drained soils",
+      "Propagate by seeds or hard-wood stem cuttings",
+      "Spacing: 45×30 cm for commercial plantations",
+      "First harvest of leaves at 12–18 months; then 2–3 times/year",
+      "Hardy shrub that grows in hot, dry climates. Propagated through seeds or cuttings. Drought-tolerant once established. Grows in various soil types."
+    ],
+    "care_instructions": [
+      "Drought-tolerant; water sparingly once established",
+      "Apply organic manure at planting",
+      "Harvest leaves before flowering for highest dye content",
+      "Cut branches to 30–40 cm height after each harvest",
+      "Minimal pest issues; very low maintenance",
+      "Prune to promote leafy growth. Water sparingly in dry season. Harvest leaves 2–3 times a year. Avoid over-fertilizing — reduces lawsone content."
+    ],
+    "income_potential": [
+      "High — dried leaf powder sells at ₹100–₹300/kg. Sojat (Rajasthan) is India's henna hub. Global export demand for natural hair dye. Revenue potential ₹30,000–₹60,000 per acre per year.",
+      "Dried and powdered leaves sell at ₹60–₹150/kg. High demand from cosmetics, beauty, and wedding industries. Year-round market."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Hibiscus (Hibiscus rosa-sinensis)": {
+    "canonical_name": "Hibiscus (Hibiscus rosa-sinensis)",
+    "plant_name": "Hibiscus (Hibiscus rosa-sinensis)",
+    "common_name": "Hibiscus",
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "aliases": [
+      "Hibiscus (Hibiscus rosa-sinensis)",
+      "Hibiscus",
+      "Hibiscus rosa-sinensis",
+      "Hibiscus / China Rose"
+    ],
+    "medicinal_uses": [
+      "Promotes hair growth and prevents hair fall",
+      "Rich in Vitamin C; boosts immunity",
+      "Lowers blood pressure (antihypertensive properties)",
+      "Reduces LDL cholesterol",
+      "Anti-cancer compounds in flower extracts",
+      "Flower tea used to treat liver disorders and fever",
+      "Flowers and leaves used for hair growth, reducing blood pressure, and as a rich source of Vitamin C. Hibiscus tea is popular for lowering cholesterol and aiding weight loss."
+    ],
+    "cultivation": [
+      "Grown across tropical and subtropical India",
+      "Thrives in warm climate; sensitive to frost",
+      "Prefers well-drained loamy soil with good organic matter",
+      "Propagate by stem cuttings (20–25 cm)",
+      "Spacing: 1.5×1.5 m for commercial planting",
+      "Begins flowering within 6–8 months of planting",
+      "Grows in warm climates in well-drained, fertile soil. Propagated through cuttings. Flowers year-round in tropical regions. Requires regular pruning."
+    ],
+    "care_instructions": [
+      "Water regularly; does not tolerate drought",
+      "Apply NPK fertilizer and organic compost monthly",
+      "Prune annually to encourage new growth and more flowers",
+      "Harvest flowers early morning for best quality",
+      "Watch for aphids, mealybugs, and leaf-eating insects",
+      "Prune after flowering for continuous blooms. Fertilize monthly with balanced fertilizer. Water regularly. Watch for aphids and whiteflies."
+    ],
+    "income_potential": [
+      "Moderate to High — fresh flowers ₹50–₹150/kg; dried ₹300–₹600/kg. Used in shampoos, hair oils, herbal teas, and cosmetics. Tamil Nadu and Kerala are major producers.",
+      "Flowers used in hair oils, teas, cosmetics, and food. Dried flowers sell at ₹100–₹200/kg. Fresh flowers also sold locally."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Indian almond (Terminalia catappa)": {
+    "canonical_name": "Indian almond (Terminalia catappa)",
+    "plant_name": "Indian almond (Terminalia catappa)",
+    "common_name": "Indian almond",
+    "scientific_name": "Terminalia catappa",
+    "aliases": [
+      "Indian almond (Terminalia catappa)",
+      "Indian almond",
+      "Terminalia catappa"
+    ],
+    "medicinal_uses": [
+      "Terminalia catappa; leaves and bark have hepatoprotective properties",
+      "Anti-diabetic properties observed in leaf extracts",
+      "Antioxidant-rich fruit; lowers oxidative stress",
+      "Leaf tea used to treat liver diseases and jaundice",
+      "Anti-inflammatory and wound healing properties",
+      "Used traditionally for skin diseases and dysentery"
+    ],
+    "cultivation": [
+      "Tropical coastal tree; grown in Goa, Kerala, coastal Karnataka, Andamans",
+      "Prefers humid tropical climate and well-drained sandy coastal soil",
+      "Tolerates salt-spray and saline conditions",
+      "Propagate by seeds; germination in 2–3 weeks",
+      "Spacing: 8–10 m for avenue/orchard planting",
+      "Fast-growing; fruit-bearing starts from 3–4 years"
+    ],
+    "care_instructions": [
+      "Minimal irrigation once established",
+      "No major fertilizer needs; grows well in poor soils",
+      "Harvest mature fruits when they turn yellow-red",
+      "Leaves harvested throughout the year for medicinal use",
+      "Very hardy tree; minimal pest and disease issues"
+    ],
+    "income_potential": [
+      "Low to Moderate — nuts have local market value. Medicinal leaf extracts have growing pharmaceutical interest. Mainly grown for shade, timber, and agroforestry."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Indian Beech (Millettia pinnata)": {
+    "canonical_name": "Indian Beech (Millettia pinnata)",
+    "plant_name": "Indian Beech (Millettia pinnata)",
+    "common_name": "Indian Beech",
+    "scientific_name": "Millettia pinnata",
+    "aliases": [
+      "Indian Beech (Millettia pinnata)",
+      "Indian Beech",
+      "Millettia pinnata"
+    ],
+    "medicinal_uses": [
+      "Pongamia pinnata; seed oil treats skin diseases like eczema and leprosy",
+      "Anti-inflammatory; bark and leaf used for rheumatism",
+      "Antifungal and antibacterial properties in oil and leaf",
+      "Used as natural insecticide and mosquito repellent",
+      "Treats coughs, colds, and bronchial infections",
+      "Wound healing properties in bark extract"
+    ],
+    "cultivation": [
+      "Native to India; widely grown as roadside and agroforestry tree",
+      "Highly drought-tolerant; grows in arid and semi-arid zones",
+      "Adaptable to saline, alkaline, waterlogged soils",
+      "Propagate by seeds, root cuttings, or air-layering",
+      "Fast-growing tree; plant at 5×5 m spacing",
+      "Seeds for oil production available from 4th year onwards"
+    ],
+    "care_instructions": [
+      "Minimal irrigation; once established, thrives on rainfall",
+      "Light fertilizer application in first 2 years",
+      "Harvest seeds (pods) from September–November",
+      "No major pest or disease issues",
+      "Excellent nitrogen-fixing tree; improves soil health"
+    ],
+    "income_potential": [
+      "Moderate — seed oil used for biodiesel and medicinal purposes. Seeds sell at ₹10–₹25/kg. Oil used in soap and leather industries. Carbon credit eligibility in reforestation programs."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Indian lilac (Azadirachta indica)": {
+    "canonical_name": "Indian lilac (Azadirachta indica)",
+    "plant_name": "Indian lilac (Azadirachta indica)",
+    "common_name": "Indian lilac",
+    "scientific_name": "Azadirachta indica",
+    "aliases": [
+      "Indian lilac (Azadirachta indica)",
+      "Indian lilac",
+      "Azadirachta indica"
+    ],
+    "medicinal_uses": [
+      "Azadirachta indica (Neem); comprehensive medicinal properties",
+      "Antibacterial, antiviral, antifungal; treats infections",
+      "Anti-diabetic; lowers blood glucose",
+      "Bark and leaf decoction used for fever and malaria",
+      "Neem oil used in dentistry, skin care, and hair care",
+      "Natural pesticide; azadirachtin repels insects"
+    ],
+    "cultivation": [
+      "Grown across tropical and subtropical India; highly adaptable",
+      "Drought-tolerant; grows in arid and semi-arid regions",
+      "Adaptable to diverse soils; even poor, degraded soils",
+      "Propagate by seeds or root cuttings",
+      "Spacing: 5×5 m for plantations; 8–10 m for agroforestry",
+      "Fast-growing; seeds available from 5th year onwards"
+    ],
+    "care_instructions": [
+      "Extremely drought-tolerant; minimal irrigation",
+      "No fertilizer typically needed",
+      "Harvest seeds (neem berries) from May–August",
+      "Leaves can be harvested year-round",
+      "Very pest-resistant; naturally repels insects"
+    ],
+    "income_potential": [
+      "High — neem seed cake ₹8–₹15/kg; neem oil ₹120–₹250/litre; neem powder ₹30–₹60/kg. Wide industrial use in biopesticides, cosmetics, and pharmaceuticals. Export potential is significant."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Indian Mustard (Brassica juncea)": {
+    "canonical_name": "Indian Mustard (Brassica juncea)",
+    "plant_name": "Indian Mustard (Brassica juncea)",
+    "common_name": "Indian Mustard",
+    "scientific_name": "Brassica juncea",
+    "aliases": [
+      "Indian Mustard (Brassica juncea)",
+      "Indian Mustard",
+      "Brassica juncea"
+    ],
+    "medicinal_uses": [
+      "Oil used to relieve muscle pain and arthritis when applied topically",
+      "Stimulates digestion; used as digestive tonic",
+      "Anti-inflammatory and antimicrobial properties in seed",
+      "Reduces risk of cardiovascular disease (omega-3 fatty acids)",
+      "Warming herb used in treatment of cold and respiratory congestion",
+      "Rich in glucosinolates with anti-cancer potential"
+    ],
+    "cultivation": [
+      "Brassica juncea; major rabi crop in Rajasthan, UP, Haryana, MP",
+      "Prefers cool, dry climate; 10–25°C temperature",
+      "Well-drained loamy to sandy loam soil; pH 6.0–7.5",
+      "Direct seed sowing in October–November",
+      "Spacing: 45×15 cm",
+      "Matures in 110–140 days"
+    ],
+    "care_instructions": [
+      "Irrigate 3–4 times through the season; critical at flowering and pod fill",
+      "Apply NPK fertilizer and sulphur (essential for mustard)",
+      "Control aphids — most serious pest of mustard",
+      "Harvest when 75% of pods turn golden-yellow",
+      "Thresh and dry seeds properly before storage"
+    ],
+    "income_potential": [
+      "High — seed yield 6–10 quintals/acre. Oil sells at ₹130–₹200/litre. India is second largest producer globally. Oil cake (sarson khali) also fetches good returns as cattle feed."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Insulin (Costus igneus)": {
+    "canonical_name": "Insulin (Costus igneus)",
+    "plant_name": "Insulin (Costus igneus)",
+    "common_name": "Insulin",
+    "scientific_name": "Costus igneus",
+    "aliases": [
+      "Insulin (Costus igneus)",
+      "Insulin",
+      "Costus igneus",
+      "Insulin Plant / Costus",
+      "Costus pictus"
+    ],
+    "medicinal_uses": [
+      "Leaves are used to lower blood glucose levels — popularly called 'insulin plant' by diabetics. One leaf consumed daily is a common Ayurvedic recommendation for diabetes management."
+    ],
+    "cultivation": [
+      "Grows in tropical conditions in partial shade. Propagated through rhizome division. Requires moist, humus-rich soil. Easy to grow in pots."
+    ],
+    "care_instructions": [
+      "Keep soil moist but not waterlogged. Partial shade preferred. Divide rhizomes every 2 years. Harvest mature leaves for medicinal use."
+    ],
+    "income_potential": [
+      "High demand from diabetic patients and Ayurvedic clinics. Plants sold at ₹50–₹150 per pot. Dried leaves sold at premium."
+    ],
+    "source_files": [
+      "plant_knowledge.json"
+    ]
+  },
+  "Jackfruit (Artocarpus heterophyllus)": {
+    "canonical_name": "Jackfruit (Artocarpus heterophyllus)",
+    "plant_name": "Jackfruit (Artocarpus heterophyllus)",
+    "common_name": "Jackfruit",
+    "scientific_name": "Artocarpus heterophyllus",
+    "aliases": [
+      "Jackfruit (Artocarpus heterophyllus)",
+      "Jackfruit",
+      "Artocarpus heterophyllus"
+    ],
+    "medicinal_uses": [
+      "Rich in Vitamin B6; supports immune system",
+      "Anti-diabetic; regulates blood sugar with low glycaemic index",
+      "High in antioxidants; protects against cancer and heart disease",
+      "Promotes digestive health with high fibre content",
+      "Bark extract used for fever and diarrhoea",
+      "Leaves used for treating skin diseases and wounds",
+      "Rich in antioxidants, vitamins, and minerals. Used to manage diabetes, boost immunity, and as anti-inflammatory. Seeds and leaves also have medicinal properties."
+    ],
+    "cultivation": [
+      "Artocarpus heterophyllus; grown in Kerala, Karnataka, Tamil Nadu, West Bengal",
+      "Tropical climate with high humidity; 1000–2400 mm rainfall",
+      "Deep, well-drained alluvial or laterite soil; pH 6.0–7.5",
+      "Propagate by seeds or grafting (for quality fruit)",
+      "Spacing: 8–10 m; pit size 90×90×90 cm",
+      "Grafted plants fruit in 3–4 years; seedlings in 7–8 years",
+      "Tropical tree grown in humid, warm climates. Propagated through seeds. Grows in most soils but prefers deep, well-drained loam. Bears fruit in 3–4 years."
+    ],
+    "care_instructions": [
+      "Water regularly for first 3 years; drought-tolerant thereafter",
+      "Apply compost and NPK fertilizer annually",
+      "Prune to remove dead wood and water shoots",
+      "Fruit flies are major pest; use fruit bagging",
+      "Harvest when skin spines become blunt and fruit emits aroma",
+      "Apply organic manure annually. Water during dry season. Protect young fruits from fruit borers. Avoid root disturbance once established."
+    ],
+    "income_potential": [
+      "Very High — raw jackfruit sells at ₹20–₹60/kg; ripe ₹30–₹80/kg. Export demand for jackfruit as meat substitute is soaring. Processed products (chips, pickle, flour) command premium prices.",
+      "Growing popularity as a meat substitute. Tender jackfruit sells at ₹20–₹50/kg. Ripe fruit and chips also in demand. High-yield tree."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Jamun (Syzygium cumini)": {
+    "canonical_name": "Jamun (Syzygium cumini)",
+    "plant_name": "Jamun (Syzygium cumini)",
+    "common_name": "Jamun",
+    "scientific_name": "Syzygium cumini",
+    "aliases": [
+      "Jamun (Syzygium cumini)",
+      "Jamun",
+      "Syzygium cumini",
+      "Nerale",
+      "Indian Blackberry / Jamun"
+    ],
+    "medicinal_uses": [
+      "Syzygium cumini; seeds are potent anti-diabetic agent",
+      "Seed powder lowers blood glucose and HbA1c in diabetics",
+      "Antioxidant-rich fruit; prevents cellular damage",
+      "Treats diarrhoea, dysentery, and digestive disorders",
+      "Bark and leaf decoction used for liver enlargement",
+      "Astringent fruit used in Ayurvedic formulation for diabetes",
+      "Fruit and seeds used for diabetes management — seeds contain jamboline which controls blood sugar. Also used for digestive issues, sore throat, and iron deficiency."
+    ],
+    "cultivation": [
+      "Native to India; grown across tropical regions",
+      "Tolerates diverse climatic conditions; prefers 10–40°C",
+      "Deep, well-drained alluvial or clay-loam soil",
+      "Propagate by seeds; improved varieties by budding or grafting",
+      "Spacing: 8–10 m; large canopy tree",
+      "Begins fruiting at 8–10 years from seed; 4–5 from grafted",
+      "Large tropical tree that thrives in warm, humid conditions. Grows in deep, well-drained soil. Propagated through seeds or grafting. Slow-growing."
+    ],
+    "care_instructions": [
+      "Requires minimal care once established",
+      "Water young trees; drought-tolerant after 3rd year",
+      "Apply compost annually during first 5 years",
+      "Harvest fruits (July–August) when deep purple",
+      "Relatively pest-free; hardy long-lived tree (100+ years)",
+      "Minimal care once established. Water young trees regularly. Protect from strong winds. Fruits stain hands — harvest carefully. Bears fruit after 8–10 years from seed."
+    ],
+    "income_potential": [
+      "High — fresh fruit ₹40–₹100/kg; seed powder ₹300–₹800/kg. Increasing demand from pharmaceutical and nutraceutical industries. Vinegar, wine, and squash add value.",
+      "Fruit sells at ₹30–₹80/kg. Jamun seed powder highly valued at ₹200–₹400/kg. Seeds can be sold to pharmaceutical companies."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Jasmine (Jasminum sambac)": {
+    "canonical_name": "Jasmine (Jasminum sambac)",
+    "plant_name": "Jasmine (Jasminum sambac)",
+    "common_name": "Jasmine",
+    "scientific_name": "Jasminum sambac",
+    "aliases": [
+      "Jasmine (Jasminum sambac)",
+      "Jasmine",
+      "Jasminum sambac",
+      "Jasmine / Mogra"
+    ],
+    "medicinal_uses": [
+      "Aromatherapy use reduces stress, anxiety, and depression",
+      "Antiseptic; used in wound healing and skin care",
+      "Leaf tea used for fever, headache, and eye inflammation",
+      "Antispasmodic; relieves menstrual cramps",
+      "Aphrodisiac properties in traditional medicine",
+      "Bark used for certain liver conditions in folk medicine",
+      "Flowers used for headaches, anxiety, and as an antiseptic. Jasmine tea aids relaxation. Leaves used for breast-milk reduction. Used in aromatherapy for stress relief."
+    ],
+    "cultivation": [
+      "Jasminum species; grown widely in Tamil Nadu, Karnataka, AP, Bengal",
+      "Tropical/subtropical warm and humid climate preferred",
+      "Well-drained fertile loamy soil; pH 6.0–7.0",
+      "Propagate by stem cuttings or layering",
+      "Train on trellis or support structure",
+      "Begins flowering in 6–8 months; peak in summer months",
+      "Climber/shrub grown in warm tropical conditions. Propagated through cuttings. Prefers rich, well-drained soil. Flowers abundantly in summer with good pruning."
+    ],
+    "care_instructions": [
+      "Water regularly; twice a week in dry season",
+      "Apply organic manure and potassium fertilizer to boost flowering",
+      "Prune after flowering season to promote new growth",
+      "Harvest flowers early morning at bud stage",
+      "Watch for bud worm and mealy bugs",
+      "Prune after each flowering flush. Train on trellis or wire support. Water daily during summer. Fertilize with phosphorus-rich fertilizer for more blooms."
+    ],
+    "income_potential": [
+      "Very High — fresh flowers ₹200–₹1,000/kg depending on season. Used in perfumery, wedding garlands, hair décor, pooja markets. Tamil Nadu's Madurai Malli and Udupi jasmine are famous. Strong domestic and export demand.",
+      "Cut flowers sell at ₹200–₹600/kg during festivals. Year-round demand for garlands, perfume, and religious offerings. Very high income potential per acre."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Jujube (Ziziphus mauritiana)": {
+    "canonical_name": "Jujube (Ziziphus mauritiana)",
+    "plant_name": "Jujube (Ziziphus mauritiana)",
+    "common_name": "Jujube",
+    "scientific_name": "Ziziphus mauritiana",
+    "aliases": [
+      "Jujube (Ziziphus mauritiana)",
+      "Jujube",
+      "Ziziphus mauritiana"
+    ],
+    "medicinal_uses": [
+      "Ziziphus jujuba (Ber); rich in Vitamin C; boosts immunity",
+      "Improves sleep quality; used for insomnia",
+      "Anti-anxiety and sedative properties",
+      "Improves digestion and relieves constipation",
+      "Protective against liver damage; hepatoprotective",
+      "Used in treatment of anaemia due to iron content"
+    ],
+    "cultivation": [
+      "Grown in Rajasthan, Haryana, UP, Gujarat, MP",
+      "Highly drought-tolerant; ideal for arid and semi-arid zones",
+      "Adaptable to any soil including saline, alkaline, and calcareous soils",
+      "Propagate by budding on wild rootstock",
+      "Spacing: 6×6 m; pit size 60×60×60 cm",
+      "First crop within 2–3 years from grafted plants"
+    ],
+    "care_instructions": [
+      "Minimal irrigation; rain-fed cultivation is common",
+      "Apply compost and NPK fertilizer before flowering",
+      "Annual pruning (June–July) to encourage new fruiting shoots",
+      "Harvest when fruits turn yellowish-brown to red (November–January)",
+      "Watch for fruit fly and bark borer"
+    ],
+    "income_potential": [
+      "High — fresh ber ₹30–₹80/kg; dried ₹100–₹250/kg. Processed products (candy, pickle) add value. Grows in wastelands where other crops fail. Excellent for resource-poor farmers."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Lantana (Lantana camara)": {
+    "canonical_name": "Lantana (Lantana camara)",
+    "plant_name": "Lantana (Lantana camara)",
+    "common_name": "Lantana",
+    "scientific_name": "Lantana camara",
+    "aliases": [
+      "Lantana (Lantana camara)",
+      "Lantana",
+      "Lantana camara"
+    ],
+    "medicinal_uses": [
+      "Leaf extract used as antiseptic for wound treatment",
+      "Anti-malarial properties in traditional medicine",
+      "Anti-inflammatory; treats skin diseases and itching",
+      "Bark decoction used for respiratory infections",
+      "Essential oil has antimicrobial properties",
+      "Used in treatment of tetanus and rheumatism in folk medicine",
+      "Leaves and flowers used for treating skin diseases, fever, cold, and as an antimicrobial. Root extract used for malaria and rheumatism in tribal medicine."
+    ],
+    "cultivation": [
+      "Invasive exotic but used medicinally across India",
+      "Grows in wastelands, roadsides, degraded forests",
+      "Extremely adaptable; grows in any soil and climate",
+      "Usually wild-collected; rarely cultivated",
+      "Self-seeding; fast-spreading",
+      "Handle with care — toxic to livestock",
+      "Invasive shrub that grows in almost all conditions. Propagated through seeds or cuttings. Very drought-tolerant. Often grows wild."
+    ],
+    "care_instructions": [
+      "No cultivation care needed; grows wild",
+      "Control spreading if harvested from a managed plot",
+      "Harvest leaves and stems before full flowering",
+      "Wear gloves when handling; skin irritant for some people",
+      "Avoid cultivating near grazing lands",
+      "Control spread — can become invasive. Wear gloves — berries are toxic. Harvest leaves and flowers for herbal use. Manages well as boundary plant."
+    ],
+    "income_potential": [
+      "Low — mainly wild-collected for local herbal use. Essential oil has some commercial value. Lantana wood used for handicrafts (baskets, furniture) in tribal areas, adding modest income.",
+      "Limited — mainly for essential oil extraction and handicrafts from woody stems. Low commercial value but zero input cost."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Lemon (Citrus limon)": {
+    "canonical_name": "Lemon (Citrus limon)",
+    "plant_name": "Lemon (Citrus limon)",
+    "common_name": "Lemon",
+    "scientific_name": "Citrus limon",
+    "aliases": [
+      "Lemon (Citrus limon)",
+      "Lemon",
+      "Citrus limon"
+    ],
+    "medicinal_uses": [
+      "Rich in Vitamin C; prevents scurvy and boosts immunity",
+      "Alkalizing effect on body despite acidic taste; balances pH",
+      "Aids digestion; relieves nausea and indigestion",
+      "Antioxidant; reduces risk of kidney stones",
+      "Promotes skin health; reduces wrinkles and blemishes",
+      "Antibacterial; used in throat infections and coughs",
+      "Rich in Vitamin C, flavonoids, and citric acid. Boosts immunity, aids digestion, promotes skin health, and acts as a natural antibacterial. Used to treat kidney stones."
+    ],
+    "cultivation": [
+      "Citrus limon; grown in Andhra Pradesh, Maharashtra, Tamil Nadu",
+      "Prefers tropical to subtropical climate; 25–30°C",
+      "Deep, well-drained sandy loam to loamy soil; pH 5.5–7.0",
+      "Propagate by budding on rough lemon or Rangpur lime rootstock",
+      "Spacing: 5–6 m; pit size 60×60×60 cm",
+      "Starts fruiting in 2–3 years from budded plants",
+      "Subtropical citrus tree in well-drained, fertile soil. Propagated through grafting. Bears fruit year-round in good conditions. Requires 6+ hours of sunlight."
+    ],
+    "care_instructions": [
+      "Irrigate at 10–15 day intervals; critical at fruit development",
+      "Apply organic manure and NPK fertilizer twice a year",
+      "Prune dead, crossing, and water shoots annually",
+      "Harvest when fully yellow; do not wait for over-ripening",
+      "Watch for citrus psylla, leaf miner, and gummosis disease",
+      "Apply balanced fertilizer thrice yearly. Water deeply but infrequently. Prune to open canopy. Watch for citrus canker and leaf miners."
+    ],
+    "income_potential": [
+      "High — fresh lemon ₹30–₹80/kg. Lemon oil and juice concentrate add value. Yield 100–150 fruits per tree per season. Steady domestic demand and export opportunities.",
+      "Fruit sells at ₹40–₹80/kg. Lemon juice and zest are also commercial products. Year-round demand from household and food industry."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Lemongrass (Cymbopogon citratus)": {
+    "canonical_name": "Lemongrass (Cymbopogon citratus)",
+    "plant_name": "Lemongrass (Cymbopogon citratus)",
+    "common_name": "Lemongrass",
+    "scientific_name": "Cymbopogon citratus",
+    "aliases": [
+      "Lemongrass (Cymbopogon citratus)",
+      "Lemongrass",
+      "Cymbopogon citratus"
+    ],
+    "medicinal_uses": [
+      "Reduces anxiety; aromatherapy and stress relief",
+      "Antipyretic; brings down fever effectively",
+      "Antifungal; treats fungal skin infections",
+      "Relieves bloating, cramps, and digestive issues",
+      "Anti-inflammatory; treats arthritis pain",
+      "Antimicrobial properties in essential oil",
+      "Essential oil used for anti-anxiety, analgesic, antifungal, and anti-inflammatory purposes. Lemongrass tea aids digestion, reduces fever, and promotes sleep."
+    ],
+    "cultivation": [
+      "Cymbopogon citratus; grown in Kerala, Karnataka, Assam, UP",
+      "Tropical climate preferred; 250–750 cm rainfall",
+      "Wide range of soils; prefers well-drained loamy soil",
+      "Propagate by slip/tiller divisions",
+      "Spacing: 60×60 cm",
+      "First harvest 4–5 months after planting; 3–4 cuts/year",
+      "Tropical grass grown in well-drained, fertile soil with full sun. Propagated through root division. Very fast-growing. Drought-tolerant."
+    ],
+    "care_instructions": [
+      "Irrigate regularly; drought-sensitive",
+      "Apply nitrogen fertilizer after each harvest",
+      "Harvest leaves by cutting 15 cm above ground",
+      "Rejuvenate clumps every 3–4 years by replanting",
+      "Minimal pest issues; very low-maintenance",
+      "Divide clumps every 2–3 years to maintain productivity. Apply nitrogen fertilizer after each harvest. Water regularly in dry seasons. Harvest before flowering."
+    ],
+    "income_potential": [
+      "High — essential oil (citral) fetches ₹800–₹1,500/litre. Dried herb and tea packaging are high-value products. India is a major exporter of lemongrass oil globally.",
+      "Essential oil fetches ₹1200–₹2000/kg. Fresh grass sold for culinary and tea uses. High profit per acre with 3–4 harvests annually."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Malabar Nut (Justicia adhatoda)": {
+    "canonical_name": "Malabar Nut (Justicia adhatoda)",
+    "plant_name": "Malabar Nut (Justicia adhatoda)",
+    "common_name": "Malabar Nut",
+    "scientific_name": "Justicia adhatoda",
+    "aliases": [
+      "Malabar Nut (Justicia adhatoda)",
+      "Malabar Nut",
+      "Justicia adhatoda",
+      "Malabar Nut / Adulsa"
+    ],
+    "medicinal_uses": [
+      "Adhatoda vasica (Adulsa); potent treatment for cough, cold, asthma",
+      "Expectorant; clears mucus from bronchial passages",
+      "Anti-tuberculosis properties (vasicine alkaloid)",
+      "Antispasmodic; relieves bronchospasm in asthma",
+      "Used to treat fever and rheumatism",
+      "Leaf juice used to stop nosebleeds",
+      "Leaves widely used for treating asthma, bronchitis, cough, and tuberculosis. Active compound vasicine is used in pharmaceutical cough syrups. Also used as antispasmodic."
+    ],
+    "cultivation": [
+      "Native shrub; grows across tropical India",
+      "Prefers tropical climate; moderately drought-tolerant",
+      "Grows in any soil type; even rocky or laterite soils",
+      "Propagate by stem cuttings (30 cm length)",
+      "Spacing: 1×1 m for commercial planting",
+      "First harvest of leaves in 12–18 months",
+      "Grows as a shrub in tropical regions in well-drained soil. Propagated through cuttings. Hardy and drought-tolerant. Very easy to grow."
+    ],
+    "care_instructions": [
+      "Water occasionally during dry spells",
+      "Minimal fertilizer needed",
+      "Prune to 60–70 cm after each harvest",
+      "2–3 harvests possible per year",
+      "Very hardy; almost pest-free",
+      "Prune after harvest to encourage leafy regrowth. Water moderately. Grows in partial shade. Harvest mature leaves — avoid young growth."
+    ],
+    "income_potential": [
+      "Moderate — dried leaves sold at ₹20–₹60/kg. Vasicine extraction is commercially significant. Used in popular syrups like Zandu Koflet and Himalaya Koflet. Consistent demand from Ayurvedic companies.",
+      "Leaves sold at ₹20–₹50/kg dried. High demand from pharmaceutical and Ayurvedic industries. Very low cultivation cost."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Malabar Spinach (Basella alba)": {
+    "canonical_name": "Malabar Spinach (Basella alba)",
+    "plant_name": "Malabar Spinach (Basella alba)",
+    "common_name": "Malabar Spinach",
+    "scientific_name": "Basella alba",
+    "aliases": [
+      "Malabar Spinach (Basella alba)",
+      "Malabar Spinach",
+      "Basella alba",
+      "Malabar Spinach / Basale Soppu"
+    ],
+    "medicinal_uses": [
+      "Rich in iron; treats and prevents iron-deficiency anaemia",
+      "High Vitamin A content; promotes eye health",
+      "Anti-inflammatory; soothes ulcers and stomach inflammation",
+      "Laxative properties; relieves constipation",
+      "Antioxidant-rich; protects against cellular damage",
+      "Topical application for minor skin wounds and burns",
+      "Leaves are rich in iron, calcium, and vitamins. Used for anemia, constipation, and as a cooling herb. Also applied topically for skin care and boils."
+    ],
+    "cultivation": [
+      "Basella alba/rubra; grown in Karnataka, Bengal, Kerala, Assam",
+      "Tropical vine; thrives in warm, humid conditions",
+      "Grows in well-drained fertile soil",
+      "Propagate by stem cuttings (20–25 cm)",
+      "Train on trellis; spacing 60×60 cm",
+      "First harvest within 4–6 weeks",
+      "Tropical creeper that grows in humid conditions. Very easy to grow — propagated through cuttings. Grows on fences or trellises. Produces throughout the year."
+    ],
+    "care_instructions": [
+      "Water regularly; moisture-loving plant",
+      "Apply organic compost at planting",
+      "Pinch growing tips for bushy growth",
+      "Harvest tender tips regularly",
+      "Perennial in tropical climates; annual in cool regions",
+      "Provide trellis support. Water regularly. Harvest tender shoots — plant regrows rapidly. Apply compost for continuous harvest."
+    ],
+    "income_potential": [
+      "Moderate — sold as leafy vegetable in local markets ₹10–₹25/bunch. Year-round production possible. Gaining recognition as superfood; urban market demand is increasing.",
+      "Popular leafy vegetable selling at ₹20–₹40/kg. Very high yield with minimal inputs. Excellent for kitchen gardens and small farms."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Mango (Mangifera indica)": {
+    "canonical_name": "Mango (Mangifera indica)",
+    "plant_name": "Mango (Mangifera indica)",
+    "common_name": "Mango",
+    "scientific_name": "Mangifera indica",
+    "aliases": [
+      "Mango (Mangifera indica)",
+      "Mango",
+      "Mangifera indica"
+    ],
+    "medicinal_uses": [
+      "Rich in Vitamins A, C, E; boosts immunity and eye health",
+      "Leaf decoction lowers blood sugar in diabetics",
+      "Antioxidant mangiferin has anti-cancer properties",
+      "Bark and seed kernel used for diarrhoea and dysentery",
+      "High in digestive enzymes (amylases); aids digestion",
+      "Anti-inflammatory; used for skin diseases",
+      "Rich in Vitamin A, C, and antioxidants. Leaves used for diabetes management. Bark used for skin diseases. Fruit improves digestion, immunity, and eye health."
+    ],
+    "cultivation": [
+      "National fruit of India; grown across tropical India",
+      "Requires hot summers and cool winters; 24–27°C optimal",
+      "Deep, well-drained alluvial or loamy soil; pH 5.5–7.5",
+      "Propagate by grafting, budding (veneer/stone grafting)",
+      "Spacing: 8–10 m (traditional); 3×3 m (ultra-high density)",
+      "Starts fruiting in 3–4 years (grafted)",
+      "Tropical fruit tree that grows in deep, well-drained loamy soil. Propagated through grafting. Bears fruit in 3–4 years (grafted). Requires dry winter for flowering."
+    ],
+    "care_instructions": [
+      "Irrigate during critical periods (fruit development, summer)",
+      "Apply organic manure and NPK fertilizer twice a year",
+      "Control mango hopper (Amritodus atkinsoni) — most damaging pest",
+      "Harvesting at right maturity stage is critical (120–140 days after fruit set)",
+      "Post-harvest handling critical to prevent softening",
+      "Apply potash fertilizer for fruiting. Prune dead wood annually. Protect flowering from rain. Watch for mango hoppers and fruit fly."
+    ],
+    "income_potential": [
+      "Very High — Alphonso, Kesar, Langra, Dasheri command ₹80–₹300/kg. Export potential is massive. India produces 50% of world's mango. Ultra-high density orchards yield 8–10 tonnes/acre.",
+      "India's leading fruit crop. Premium varieties like Alphonso, Kesar fetch ₹150–₹400/kg. Average mango income per acre is ₹1–₹3 lakh."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Mangosteen (Garcinia mangostana)": {
+    "canonical_name": "Mangosteen (Garcinia mangostana)",
+    "plant_name": "Mangosteen (Garcinia mangostana)",
+    "common_name": "Mangosteen",
+    "scientific_name": "Garcinia mangostana",
+    "aliases": [
+      "Mangosteen (Garcinia mangostana)",
+      "Mangosteen",
+      "Garcinia mangostana"
+    ],
+    "medicinal_uses": [
+      "Xanthones in pericarp are powerful antioxidants",
+      "Anti-cancer; xanthones inhibit tumour cell proliferation",
+      "Anti-inflammatory; treats arthritis and skin conditions",
+      "Antimicrobial; treats bacterial and fungal infections",
+      "Anti-diabetic properties observed in studies",
+      "Fruit juice boosts immunity and reduces fatigue"
+    ],
+    "cultivation": [
+      "Garcinia mangostana; grown in Kerala, Goa, coastal Karnataka, Andamans",
+      "Tropical humid climate; high humidity essential (1270–2500 mm rainfall)",
+      "Deep, well-drained fertile loamy soil; pH 5.5–7.0",
+      "Propagate by seeds (only; seedlings cannot be grafted easily)",
+      "Spacing: 8–10 m; shade-loving in early years",
+      "Very slow-growing; fruiting after 8–15 years from planting"
+    ],
+    "care_instructions": [
+      "Regular irrigation; cannot tolerate drought",
+      "Apply organic compost and micronutrients annually",
+      "Shade young plants for first 3–4 years",
+      "Harvest when skin turns deep purple-maroon",
+      "Watch for algal leaf spot in humid conditions"
+    ],
+    "income_potential": [
+      "Very High — premium exotic fruit; fresh fruit ₹300–₹1,000/kg in Indian urban markets; higher in export markets. Very long gestation but exceptional lifetime returns. Organic certification boosts value significantly."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Marigold (Tagetes erecta)": {
+    "canonical_name": "Marigold (Tagetes erecta)",
+    "plant_name": "Marigold (Tagetes erecta)",
+    "common_name": "Marigold",
+    "scientific_name": "Tagetes erecta",
+    "aliases": [
+      "Marigold (Tagetes erecta)",
+      "Marigold",
+      "Tagetes erecta",
+      "Marigold / Genda Phool"
+    ],
+    "medicinal_uses": [
+      "Anti-inflammatory; treats skin conditions like dermatitis",
+      "Antifungal and antibacterial; wound healing properties",
+      "Eye health; lutein in petals protects against macular degeneration",
+      "Relieves menstrual pain and regulates menstrual cycle",
+      "Used in treatment of conjunctivitis and ear infections",
+      "Repels insects when grown as companion plant",
+      "Flowers used for eye inflammation, skin wounds, fungal infections, and as an anti-inflammatory. Also used in treating digestive discomfort and menstrual disorders."
+    ],
+    "cultivation": [
+      "Tagetes species; grown across India, especially Maharashtra, Karnataka",
+      "Prefers cool to moderate temperature (15–29°C)",
+      "Well-drained loamy soil; pH 6.0–7.0",
+      "Propagate by seeds; sow in nursery and transplant",
+      "Spacing: 30×30 cm for African varieties; 20×20 cm for French",
+      "First flowers within 45–60 days of transplanting",
+      "Annual flowering plant grown in tropical and subtropical regions. Propagated through seeds. Grows in any well-drained soil. Flowers profusely in winter."
+    ],
+    "care_instructions": [
+      "Water 2–3 times per week; avoid overwatering",
+      "Apply balanced NPK fertilizer at transplanting",
+      "Pinch tips to promote branching and more flowers",
+      "Harvest flowers at full bloom in morning",
+      "Watch for spider mites and leaf spot",
+      "Deadhead spent flowers for continuous blooming. Water regularly. Pinch tips for bushy plants. Natural pest repellent — good as companion plant."
+    ],
+    "income_potential": [
+      "High — fresh flowers ₹30–₹100/kg; oleoresin (for poultry feed pigment and cosmetics) adds value. Major demand from religious, wedding, and funeral markets. Short duration crop with quick returns.",
+      "Flowers sell at ₹30–₹100/kg for festivals and religious markets. High demand during Diwali and Navratri seasons. Also used in garlands and dyes."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Mint (Mentha spicata)": {
+    "canonical_name": "Mint (Mentha spicata)",
+    "plant_name": "Mint (Mentha spicata)",
+    "common_name": "Mint",
+    "scientific_name": "Mentha spicata",
+    "aliases": [
+      "Mint (Mentha spicata)",
+      "Mint",
+      "Mentha spicata",
+      "Mint / Pudina"
+    ],
+    "medicinal_uses": [
+      "Relieves irritable bowel syndrome (IBS) and digestive discomfort",
+      "Treats headaches and migraines when applied to temples",
+      "Decongestant; relieves blocked nose and sinuses",
+      "Freshens breath; antimicrobial against oral bacteria",
+      "Antispasmodic; relieves nausea and vomiting",
+      "Cooling properties reduce fever",
+      "Used for digestive problems, headaches, skin irritation, cold relief, and freshening breath. Menthol is the active compound used widely in pharmaceuticals and food."
+    ],
+    "cultivation": [
+      "Mentha species; grown in Uttar Pradesh (Barabanki), Punjab, Haryana",
+      "Prefers cool to moderate climate; 20–25°C",
+      "Moist, well-drained, fertile sandy loam soil",
+      "Propagate by stolon (underground runners)",
+      "Spacing: 30×30 cm or in rows 30 cm apart",
+      "First harvest in 70–90 days; 2–3 cuts/season",
+      "Fast-growing herb that spreads through runners. Grows in moist, fertile soil with partial shade. Propagated through stem cuttings. Grows in pots or beds."
+    ],
+    "care_instructions": [
+      "Water frequently; sensitive to moisture stress",
+      "Apply nitrogen fertilizer after each harvest",
+      "Control weeds especially in early stages",
+      "Harvest just before flowering for maximum oil content",
+      "Watch for alternaria blight and aphids",
+      "Contain growth — spreads aggressively. Harvest frequently to prevent flowering. Keep soil moist. Divide plants every year. Grow in pots to control spread."
+    ],
+    "income_potential": [
+      "Very High — menthol (from Mentha arvensis) is a billion-dollar export product. India supplies 80% of world's menthol. Oil fetches ₹700–₹2,000/kg. UP's Barabanki district is the global menthol capital.",
+      "Fresh mint sells at ₹20–₹60/kg. Mint oil (menthol) is extremely valuable at ₹800–₹2000/kg. India is the world's largest menthol producer."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Moringa (Moringa oleifera)": {
+    "canonical_name": "Moringa (Moringa oleifera)",
+    "plant_name": "Moringa (Moringa oleifera)",
+    "common_name": "Moringa",
+    "scientific_name": "Moringa oleifera",
+    "aliases": [
+      "Moringa (Moringa oleifera)",
+      "Moringa",
+      "Moringa oleifera"
+    ],
+    "medicinal_uses": [
+      "All parts edible and medicinal; called 'miracle tree'",
+      "Leaf powder contains 7x Vitamin C of oranges, 4x calcium of milk",
+      "Anti-diabetic; lowers blood glucose significantly",
+      "Reduces inflammation and oxidative stress",
+      "Seeds purify water by coagulating bacteria",
+      "Promotes lactation in breastfeeding mothers"
+    ],
+    "cultivation": [
+      "Moringa oleifera; grown across India, especially Tamil Nadu, AP",
+      "Highly drought-tolerant; grows in arid zones",
+      "Adaptable to any soil; even poor, sandy soil",
+      "Plant stem cuttings (1–1.5 m) or seeds",
+      "PKM-1 and PKM-2 varieties ideal for commercial production",
+      "High-density planting: 1000 plants/acre for leaf production"
+    ],
+    "care_instructions": [
+      "Minimal water needed once established",
+      "Apply organic compost at planting and after each harvest",
+      "Harvest leaves every 60 days in high-density plantations",
+      "Prune to 1 m height for leaf crop; let grow for pod crop",
+      "Virtually pest-free under normal conditions"
+    ],
+    "income_potential": [
+      "Very High — leaf powder ₹300–₹800/kg; pods ₹30–₹80/kg. India is world's largest Moringa exporter (to USA, Europe, Japan). Nutraceutical and organic food sectors driving demand."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Neem (Azadirachta indica)": {
+    "canonical_name": "Neem (Azadirachta indica)",
+    "plant_name": "Neem (Azadirachta indica)",
+    "common_name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "aliases": [
+      "Neem (Azadirachta indica)",
+      "Neem",
+      "Azadirachta indica"
+    ],
+    "medicinal_uses": [
+      "Comprehensive antimicrobial; treats bacterial, viral, fungal infections",
+      "Anti-diabetic; leaf extract lowers blood glucose",
+      "Treats skin diseases, acne, eczema, psoriasis",
+      "Oral health; neem twigs used as natural toothbrush",
+      "Immunomodulatory properties; boosts immune response",
+      "Natural contraceptive in traditional medicine",
+      "One of the most versatile medicinal plants — antibacterial, antifungal, antiviral, and insecticidal. Used for skin diseases, dental health, diabetes, and pest control."
+    ],
+    "cultivation": [
+      "Azadirachta indica; pan-India cultivation; thrives in all zones",
+      "Grows in dry, tropical to semi-arid regions",
+      "Extremely adaptable to all soil types",
+      "Propagate by fresh seeds (viability short) or root cuttings",
+      "Spacing: 5×5 m or 8×8 m for agroforestry",
+      "Fast-growing; seeds available from 5th year",
+      "Extremely hardy tree that grows in hot, dry tropical climates. Grows in most soils. Propagated through seeds. Grows fast and requires minimal care."
+    ],
+    "care_instructions": [
+      "No irrigation needed after establishment",
+      "No fertilizer required under natural conditions",
+      "Leaves, seed, bark all harvestable year-round",
+      "Collect fallen seeds (May–August) for oil extraction",
+      "Practically pest-free; naturally repels insects",
+      "No special care needed once established. Prune lower branches for timber. Harvest leaves and fruits regularly. Drought-tolerant — minimal irrigation."
+    ],
+    "income_potential": [
+      "High — neem oil ₹120–₹250/litre; seed cake ₹10–₹20/kg; leaf powder ₹30–₹80/kg. Growing biopesticide and organic farming market is a major demand driver. All parts have commercial value.",
+      "Neem oil sells at ₹80–₹200/litre. Leaves and seeds are raw material for biopesticide industry. Neem cake used as fertilizer."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Nelavembu (Andrographis paniculata)": {
+    "canonical_name": "Nelavembu (Andrographis paniculata)",
+    "plant_name": "Nelavembu (Andrographis paniculata)",
+    "common_name": "Nelavembu",
+    "scientific_name": "Andrographis paniculata",
+    "aliases": [
+      "Nelavembu (Andrographis paniculata)",
+      "Nelavembu",
+      "Andrographis paniculata",
+      "Kalmegh / Green Chiretta"
+    ],
+    "medicinal_uses": [
+      "Andrographis paniculata; potent bitter herb for liver health",
+      "Antiviral; significant activity against dengue and Chikungunya",
+      "Anti-malarial and antipyretic; reduces fever rapidly",
+      "Immunomodulatory; boosts immune cell activity",
+      "Hepatoprotective; used in liver disorders and jaundice",
+      "Anti-inflammatory; relieves upper respiratory infections",
+      "Highly bitter herb used extensively in Ayurveda and Siddha for liver diseases, fever, and immunity. Gained popularity during COVID-19 as an antiviral herb."
+    ],
+    "cultivation": [
+      "Native to South and Southeast Asia; widely grown in Tamil Nadu, Kerala",
+      "Prefers tropical, humid climate with moderate rainfall",
+      "Well-drained loamy soil; pH 6.5–7.5",
+      "Propagate by seeds; sow in nursery, transplant after 4 weeks",
+      "Spacing: 30×30 cm",
+      "Ready for harvest in 90–120 days",
+      "Annual herb grown in tropical regions. Propagated through seeds. Grows in well-drained, fertile soil with partial shade. Matures in 3–4 months."
+    ],
+    "care_instructions": [
+      "Water regularly but avoid waterlogging",
+      "Apply organic manure at transplanting",
+      "Weed in early growth stages",
+      "Harvest entire plant including roots at early flowering stage",
+      "Dry and store in shade; high humidity causes rapid deterioration",
+      "Sow seeds in nursery first, then transplant. Water regularly. Harvest at flowering stage for maximum andrographolide content. Avoid pesticides."
+    ],
+    "income_potential": [
+      "High — dried herb ₹80–₹200/kg; andrographolide extract commands premium prices. Massively boosted by COVID-19 period demand. Strong demand from Ayurvedic and Siddha industries.",
+      "Very high demand from pharmaceutical industry. Dried herb sells at ₹60–₹150/kg. Export market is growing significantly."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Onion (Allium cepa)": {
+    "canonical_name": "Onion (Allium cepa)",
+    "plant_name": "Onion (Allium cepa)",
+    "common_name": "Onion",
+    "scientific_name": "Allium cepa",
+    "aliases": [
+      "Onion (Allium cepa)",
+      "Onion",
+      "Allium cepa"
+    ],
+    "medicinal_uses": [
+      "Rich in quercetin; anti-inflammatory and antioxidant",
+      "Reduces LDL cholesterol and lowers blood pressure",
+      "Antibacterial; applied to insect stings and minor wounds",
+      "Anti-diabetic; improves glucose tolerance",
+      "Prebiotic fibre supports gut microbiome health",
+      "Anti-cancer properties (sulphur compounds)",
+      "Rich in quercetin, sulfur compounds, and antioxidants. Used to manage blood sugar, cholesterol, and heart health. Natural antibacterial and anti-inflammatory."
+    ],
+    "cultivation": [
+      "Major crop in Maharashtra (Nashik), Karnataka, Madhya Pradesh",
+      "Cool to moderate climate preferred; 13–24°C for bulb formation",
+      "Well-drained loamy to sandy loam soil; pH 6.0–7.5",
+      "Transplanting seedlings preferred; direct seeding also done",
+      "Spacing: 15×10 cm",
+      "Bulb crop matures in 90–120 days; kharif and rabi seasons",
+      "Cool-season bulb crop grown in well-drained, loamy, fertile soil. Propagated through sets or seeds. Ready to harvest in 90–120 days. Needs dry conditions for curing."
+    ],
+    "care_instructions": [
+      "Irrigate at 7–10 day intervals; stop 10 days before harvest",
+      "Apply NPK and sulphur fertilizer (key for onion)",
+      "Control thrips — most damaging pest",
+      "Harvest when tops fall over and neck dries",
+      "Cure onions in shade for 7–10 days before storage",
+      "Control water near harvest — stop irrigation 15 days before pulling. Apply potash fertilizer for bulb development. Watch for thrips and purple blotch disease."
+    ],
+    "income_potential": [
+      "Very High — yields 6–12 tonnes/acre. Price highly volatile (₹5–₹60/kg). India is world's second largest producer and major exporter. Storage and processing (dehydrated onion) add significant value.",
+      "One of India's most important commercial crops. Price varies widely — ₹10–₹60/kg. Storage and proper market timing is key to profitability."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Palak (Spinacia oleracea)": {
+    "canonical_name": "Palak (Spinacia oleracea)",
+    "plant_name": "Palak (Spinacia oleracea)",
+    "common_name": "Palak",
+    "scientific_name": "Spinacia oleracea",
+    "aliases": [
+      "Palak (Spinacia oleracea)",
+      "Palak",
+      "Spinacia oleracea",
+      "Spinach / Palak"
+    ],
+    "medicinal_uses": [
+      "Beta vulgaris/Spinacia types; rich in iron and folic acid; treats anaemia",
+      "High Vitamin K; supports bone health and wound healing",
+      "Lutein and zeaxanthin in leaves protect eye health",
+      "Anti-cancer phytochemicals (chlorophyll, carotenoids)",
+      "High antioxidant content; reduces oxidative stress",
+      "Potassium and magnesium support heart and blood pressure health",
+      "Rich in iron, folate, Vitamin K, and antioxidants. Used to treat anemia, improve bone health, manage blood pressure, and as an anti-inflammatory food."
+    ],
+    "cultivation": [
+      "Grown across India; Punjab, Haryana, UP, Delhi NCR region are major producers",
+      "Cool climate preferred (15–22°C); bolts in heat",
+      "Rich, well-drained loamy soil with high organic matter; pH 6.0–7.0",
+      "Direct seed sowing; spacing 30×10 cm",
+      "Fast-growing; first harvest in 30–40 days",
+      "Multiple cuttings possible (4–6 cuts/season)",
+      "Cool-season vegetable grown in well-drained, nitrogen-rich soil. Sown directly in winter months. Ready in 30–45 days. Multiple harvests possible."
+    ],
+    "care_instructions": [
+      "Irrigate every 3–5 days; consistent moisture essential",
+      "Apply nitrogen fertilizer for lush leaf growth",
+      "Harvest outer leaves progressively, not all at once",
+      "Watch for downy mildew and leaf miners",
+      "Grow in raised beds for better drainage",
+      "Water regularly. Apply nitrogen fertilizer. Harvest outer leaves to promote continuous growth. Bolts in heat — grow only in cool season."
+    ],
+    "income_potential": [
+      "Moderate to High — ₹20–₹60/kg. High turnover crop (30–40 day cycles). Year-round demand in urban markets. Organic baby palak for premium retail/restaurants commands ₹150–₹300/kg.",
+      "Leafy vegetable with stable market demand. Sells at ₹20–₹50/kg. Fast crop cycle with high yield per area."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Papaya (Carica papaya)": {
+    "canonical_name": "Papaya (Carica papaya)",
+    "plant_name": "Papaya (Carica papaya)",
+    "common_name": "Papaya",
+    "scientific_name": "Carica papaya",
+    "aliases": [
+      "Papaya (Carica papaya)",
+      "Papaya",
+      "Carica papaya"
+    ],
+    "medicinal_uses": [
+      "Papain enzyme in raw fruit aids protein digestion",
+      "Leaf extract increases platelet count in dengue fever",
+      "Anti-cancer properties; lycopene reduces cancer risk",
+      "Rich in Vitamin C and A; boosts immunity",
+      "Anti-inflammatory; treats skin wounds and ulcers",
+      "Seed extract shows antiparasitic properties",
+      "Papain enzyme aids protein digestion. Leaves used for dengue fever (platelet increase). Fruit rich in Vitamin C and lycopene. Used for skin care and digestive health."
+    ],
+    "cultivation": [
+      "Carica papaya; grown across tropical India",
+      "Requires warm, frost-free climate with 1000–1500 mm rainfall",
+      "Deep, well-drained loamy soil; cannot tolerate waterlogging",
+      "Propagate by seeds; germination in 2–3 weeks",
+      "Spacing: 1.8×1.8 m to 2.5×2.5 m",
+      "Begins fruiting in 9–11 months from planting",
+      "Fast-growing tropical tree. Grows in well-drained, loamy soil with full sun. Propagated through seeds. Bears fruit in just 9–11 months. Cannot tolerate frost."
+    ],
+    "care_instructions": [
+      "Irrigate at 5–7 day intervals; highly sensitive to waterlogging",
+      "Apply organic manure and NPK fertilizer monthly",
+      "Support stem against strong winds",
+      "Harvest at 'colour break' stage (slightly yellow)",
+      "Watch for papaya mosaic virus and Phytophthora root rot",
+      "Water regularly — sensitive to waterlogging. Fertilize monthly. Support stems in windy areas. Watch for papaya mealy bug and mosaic virus."
+    ],
+    "income_potential": [
+      "Very High — fresh papaya ₹15–₹50/kg; papain enzyme (for pharmaceutical use) ₹2,000–₹5,000/kg. Short payback period. Dwarf varieties enable high-density planting with excellent returns.",
+      "Fruit sells at ₹15–₹40/kg. Papain enzyme is very valuable commercially. High yield per tree. Short production cycle makes it very profitable."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Parijata (Nyctanthes arbor-tristis)": {
+    "canonical_name": "Parijata (Nyctanthes arbor-tristis)",
+    "plant_name": "Parijata (Nyctanthes arbor-tristis)",
+    "common_name": "Parijata",
+    "scientific_name": "Nyctanthes arbor-tristis",
+    "aliases": [
+      "Parijata (Nyctanthes arbor-tristis)",
+      "Parijata",
+      "Nyctanthes arbor-tristis",
+      "Parijatha",
+      "Night Jasmine / Harshringar"
+    ],
+    "medicinal_uses": [
+      "Nyctanthes arbor-tristis; leaf tea used for arthritis and joint pain",
+      "Anti-malarial and antipyretic properties",
+      "Anti-inflammatory; relieves fever and body aches",
+      "Antifungal and antibacterial properties in leaf and bark",
+      "Treats skin diseases including ringworm",
+      "Used for constipation and liver disorders",
+      "Leaves used for treating arthritis, sciatica, and fever. Flowers used as a natural yellow dye. Also used for cough, malaria, and skin diseases in Ayurveda."
+    ],
+    "cultivation": [
+      "Ornamental and medicinal shrub/small tree across tropical India",
+      "Prefers tropical to subtropical climate",
+      "Well-drained loamy to sandy soil; pH 6.0–8.0",
+      "Propagate by stem cuttings or seeds",
+      "Spacing: 3×3 m",
+      "Grows easily; flowers from September to April",
+      "Tropical and subtropical tree grown in well-drained soil. Propagated through seeds or cuttings. Flowers at night — known for fragrant night-blooming flowers."
+    ],
+    "care_instructions": [
+      "Water moderately; drought-tolerant once established",
+      "Apply compost annually",
+      "Flowers fall naturally at dawn; collect from ground",
+      "Harvest leaves for medicinal use year-round",
+      "Minimal pest and disease issues",
+      "Water moderately. Prune after flowering season. Grows in partial shade or full sun. Easy to maintain as a garden tree."
+    ],
+    "income_potential": [
+      "Low to Moderate — flowers used in religious markets (pooja), essential oil extraction. Medicinal leaf demand is niche but growing. Often planted for spiritual and ornamental value.",
+      "Flowers and leaves sold to Ayurvedic companies. Flowers used as religious offerings. Moderate commercial value."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Pea (Pisum sativum)": {
+    "canonical_name": "Pea (Pisum sativum)",
+    "plant_name": "Pea (Pisum sativum)",
+    "common_name": "Pea",
+    "scientific_name": "Pisum sativum",
+    "aliases": [
+      "Pea (Pisum sativum)",
+      "Pea",
+      "Pisum sativum",
+      "Garden Pea"
+    ],
+    "medicinal_uses": [
+      "Rich in plant protein; supports muscle health",
+      "High fibre content aids digestion and prevents constipation",
+      "Regulates blood sugar; low glycaemic index",
+      "Rich in Vitamin K and C; supports bone and immune health",
+      "Antioxidant flavonoids reduce inflammation",
+      "Reduces risk of heart disease through soluble fibre",
+      "Rich in plant protein, fiber, and antioxidants including lutein and zeaxanthin. Used to manage blood sugar, cholesterol, and as an anti-inflammatory food."
+    ],
+    "cultivation": [
+      "Pisum sativum; grown in UP, Himachal Pradesh, Punjab, Uttarakhand, MP",
+      "Cool climate (10–18°C); rabi (winter) crop",
+      "Well-drained loamy to clay-loam soil; pH 6.0–7.5",
+      "Direct seed sowing in October–November",
+      "Spacing: 30×8 cm rows; shallow sowing (3–5 cm)",
+      "Matures in 60–90 days (early to main varieties)",
+      "Cool-season legume grown in winter. Well-drained fertile soil preferred. Propagated through direct seed sowing. Nitrogen-fixing crop — improves soil health."
+    ],
+    "care_instructions": [
+      "Irrigate at 10–15 day intervals; avoid waterlogging",
+      "Light NPK fertilizer; nitrogen-fixing crop — minimal N needed",
+      "Provide pea sticks or wire support for climbing varieties",
+      "Harvest pods when green, tender, and seeds just visible",
+      "Watch for powdery mildew and pea stem fly",
+      "Provide trellis support for climbing varieties. Do not over-fertilize with nitrogen. Water regularly but avoid waterlogging. Harvest pods before they harden."
+    ],
+    "income_potential": [
+      "High — fresh green peas ₹30–₹80/kg; dry peas ₹50–₹100/kg. Frozen pea processing (for export) adds significant value. High-value off-season cultivation in Himachal Pradesh fetches premium prices.",
+      "Green peas sell at ₹20–₹60/kg. Quick crop cycle of 60–70 days. Frozen pea processing industry offers contract farming opportunities."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Peepal (Ficus religiosa)": {
+    "canonical_name": "Peepal (Ficus religiosa)",
+    "plant_name": "Peepal (Ficus religiosa)",
+    "common_name": "Peepal",
+    "scientific_name": "Ficus religiosa",
+    "aliases": [
+      "Peepal (Ficus religiosa)",
+      "Peepal",
+      "Ficus religiosa"
+    ],
+    "medicinal_uses": [
+      "Ficus religiosa; bark treats skin diseases and leucoderma",
+      "Leaf latex applied to wounds and cracked heels",
+      "Anti-asthmatic and anti-diarrheal properties",
+      "Bark decoction used for gonorrhoea and vaginal infections",
+      "Anti-diabetic; leaf extract reduces blood glucose",
+      "Wound healing and anti-inflammatory properties"
+    ],
+    "cultivation": [
+      "Sacred tree; widely planted throughout India",
+      "Extremely adaptable; grows in all tropical and subtropical zones",
+      "Grows in any soil type; tolerates rocky, degraded land",
+      "Propagate by seeds or stem cuttings",
+      "Grows into a very large tree; plant with adequate spacing (10+ m)",
+      "Provides year-round leaf and bark availability"
+    ],
+    "care_instructions": [
+      "Minimal care once established; highly self-sufficient",
+      "Young plants need occasional watering",
+      "No fertilizer needed",
+      "Leaves and bark harvestable year-round",
+      "Long-lived tree (hundreds of years); no replanting needed"
+    ],
+    "income_potential": [
+      "Low to Moderate — bark and leaves sold locally to herbal traders. Latex has some commercial applications. Primarily of religious and ecological importance rather than commercial farming."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Pepper (Piper nigrum)": {
+    "canonical_name": "Pepper (Piper nigrum)",
+    "plant_name": "Pepper (Piper nigrum)",
+    "common_name": "Pepper",
+    "scientific_name": "Piper nigrum",
+    "aliases": [
+      "Pepper (Piper nigrum)",
+      "Pepper",
+      "Piper nigrum"
+    ],
+    "medicinal_uses": [
+      "Black pepper enhances bioavailability of curcumin and other nutrients (piperine)",
+      "Stimulates digestive enzymes and bile production",
+      "Antimicrobial and antioxidant properties",
+      "Relieves congestion and acts as expectorant",
+      "Anti-cancer properties of piperine in studies",
+      "Reduces inflammation and oxidative stress"
+    ],
+    "cultivation": [
+      "Piper nigrum; 'King of Spices'; grown in Kerala, Karnataka, Tamil Nadu",
+      "Tropical climate with high humidity and 2000–3000 mm rainfall",
+      "Laterite or forest loam soil rich in organic matter",
+      "Propagate by runner shoots (2–3 node cuttings)",
+      "Train on standards (silver oak, jack, erythrina); spacing 3×3 m",
+      "Begins bearing in 3rd year; peak production from 7–10 years"
+    ],
+    "care_instructions": [
+      "Irrigate at 7–10 day intervals; critical during dry months",
+      "Apply organic manure and NPK fertilizer twice a year",
+      "Shade management; thin standard canopy for adequate light",
+      "Harvest berries when 1–2 berries in spike turn red",
+      "Watch for Phytophthora foot rot — most devastating disease"
+    ],
+    "income_potential": [
+      "Very High — dry pepper ₹400–₹800/kg; green pepper ₹100–₹200/kg. India is a top global exporter. Malabar and Tellicherry varieties are premium GI-tagged products."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Pomegranate (Punica granatum)": {
+    "canonical_name": "Pomegranate (Punica granatum)",
+    "plant_name": "Pomegranate (Punica granatum)",
+    "common_name": "Pomegranate",
+    "scientific_name": "Punica granatum",
+    "aliases": [
+      "Pomegranate (Punica granatum)",
+      "Pomegranate",
+      "Punica granatum",
+      "Pomegranate / Anar"
+    ],
+    "medicinal_uses": [
+      "Extremely high antioxidant content (3x red wine); fights free radicals",
+      "Reduces blood pressure and LDL cholesterol",
+      "Anti-cancer; inhibits prostate and breast cancer cell growth",
+      "Anti-inflammatory; relieves arthritis pain",
+      "Treats diarrhoea and dysentery (bark and rind astringent)",
+      "Improves memory and cognitive function",
+      "Rich in antioxidants, particularly punicalagins. Used for heart health, prostate health, anti-cancer properties, and reducing inflammation. Juice is a popular health drink."
+    ],
+    "cultivation": [
+      "Punica granatum; grown in Maharashtra, Gujarat, Rajasthan, Karnataka, AP",
+      "Prefers hot, dry climate; 10–35°C; tolerates drought",
+      "Well-drained sandy loam to loamy soil; pH 5.5–7.2",
+      "Propagate by hardwood cuttings (25–30 cm)",
+      "Spacing: 4.5×3 m to 5×3 m",
+      "Fruits in 2–3 years from cuttings",
+      "Grown in semi-arid tropical regions in well-drained soils. Drought-tolerant once established. Propagated through hardwood cuttings. Bears fruit in 2–3 years."
+    ],
+    "care_instructions": [
+      "Irrigate at 10–15 day intervals; drip irrigation ideal",
+      "Apply NPK and organic manure twice a year",
+      "Prune to single trunk with 3–4 main branches",
+      "Bag developing fruits to prevent fruit borer attack",
+      "Harvest when skin turns deep red and gives metallic sound when tapped",
+      "Prune suckers regularly. Apply potash-rich fertilizer before flowering. Bag fruits to prevent pomegranate butterfly. Drip irrigation recommended."
+    ],
+    "income_potential": [
+      "Very High — Bhagwa variety fetches ₹80–₹200/kg. Yields 15–20 tonnes/acre in full production. India is top exporter to Middle East and Europe. Juice and extract processing adds massive value.",
+      "Premium fruit with strong market demand. Bhagwa and Sinduri varieties fetch ₹60–₹120/kg. Maharashtra's Solapur district is India's pomegranate hub."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Pumpkin (Cucurbita maxima)": {
+    "canonical_name": "Pumpkin (Cucurbita maxima)",
+    "plant_name": "Pumpkin (Cucurbita maxima)",
+    "common_name": "Pumpkin",
+    "scientific_name": "Cucurbita maxima",
+    "aliases": [
+      "Pumpkin (Cucurbita maxima)",
+      "Pumpkin",
+      "Cucurbita maxima"
+    ],
+    "medicinal_uses": [
+      "Rich in beta-carotene; excellent for eye health and immunity",
+      "Seed oil promotes urinary health and prostate health",
+      "Anti-parasitic; seeds expel intestinal worms",
+      "Low glycaemic index; beneficial for diabetics",
+      "High antioxidant content; reduces oxidative stress",
+      "Anti-inflammatory properties in pulp and seeds",
+      "Rich in beta-carotene, Vitamin C, and zinc. Seed oil used for prostate health and urinary disorders. Flesh used to reduce inflammation and improve eye health."
+    ],
+    "cultivation": [
+      "Cucurbita moschata/maxima; grown across India in warm seasons",
+      "Warm climate; 20–35°C; frost-sensitive",
+      "Well-drained fertile loamy soil; pH 6.0–7.0",
+      "Sow 2–3 seeds per pit; 3–5 m between pits",
+      "Vining crop; needs space or trellis",
+      "Harvest in 60–90 days",
+      "Warm-season creeper that grows in well-drained, fertile soil. Sown directly. Requires wide spacing. Grows abundantly with regular watering and fertilization."
+    ],
+    "care_instructions": [
+      "Water at 5–7 day intervals; avoid overwatering",
+      "Apply organic manure in pits at planting",
+      "Hand-pollinate in enclosed cultivation",
+      "Harvest when stem and skin turn dry and hard",
+      "Watch for downy mildew and vine borer",
+      "Hand pollinate in low bee activity areas. Apply compost at planting. Water at base — avoid wetting leaves to prevent mildew. Harvest when stem dries up."
+    ],
+    "income_potential": [
+      "Moderate — ₹15–₹40/kg fresh; pumpkin seed oil and seed snacks command premium. Good intercrop option. Low investment crop with decent returns.",
+      "Fruit sells at ₹8–₹20/kg. Seeds can be processed and sold at ₹200–₹400/kg. Good returns from pumpkin seed oil pressing."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Raddish (Raphanus sativus)": {
+    "canonical_name": "Raddish (Raphanus sativus)",
+    "plant_name": "Raddish (Raphanus sativus)",
+    "common_name": "Raddish",
+    "scientific_name": "Raphanus sativus",
+    "aliases": [
+      "Raddish (Raphanus sativus)",
+      "Raddish",
+      "Raphanus sativus",
+      "Radish / Mooli"
+    ],
+    "medicinal_uses": [
+      "Used for liver health, digestive disorders, and as a diuretic. Rich in Vitamin C and folate. Leaves also edible and nutritious. Helps prevent jaundice."
+    ],
+    "cultivation": [
+      "Very fast-growing cool-season vegetable. Ready to harvest in 25–35 days. Grows in loose, well-drained soil. Sow directly in cool weather."
+    ],
+    "care_instructions": [
+      "Thin seedlings to 5cm spacing. Water evenly to prevent cracking. Do not over-fertilize with nitrogen. Harvest promptly — becomes pithy if left too long."
+    ],
+    "income_potential": [
+      "Quick crop with stable market demand. Sells at ₹10–₹25/kg. Multiple crops per season possible. Good for intercropping."
+    ],
+    "source_files": [
+      "plant_knowledge.json"
+    ]
+  },
+  "Rose (Rosa indica)": {
+    "canonical_name": "Rose (Rosa indica)",
+    "plant_name": "Rose (Rosa indica)",
+    "common_name": "Rose",
+    "scientific_name": "Rosa indica",
+    "aliases": [
+      "Rose (Rosa indica)",
+      "Rose",
+      "Rosa indica",
+      "Rosa damascena"
+    ],
+    "medicinal_uses": [
+      "Rosewater treats eye inflammation and conjunctivitis",
+      "Anti-depressant aromatherapy; reduces anxiety and stress",
+      "Anti-inflammatory; relieves sore throat (rose petal tea)",
+      "Rich in Vitamin C; boosts immunity",
+      "Antioxidant; rosehip oil used in anti-aging skin care",
+      "Astringent; treats diarrhoea and digestive complaints",
+      "Rose petals used for skin care (anti-aging), emotional balance, and digestive health. Rose water is an antiseptic and toner. Rose hip is rich in Vitamin C."
+    ],
+    "cultivation": [
+      "Rosa species; grown in Karnataka (Doddaballapur), Maharashtra (Pune), Tamil Nadu",
+      "Temperate to subtropical; 15–28°C; 8–10 hours sunlight",
+      "Well-drained fertile loamy soil; pH 6.0–6.5",
+      "Propagate by T-budding on Dog Rose or Iceberg rootstock",
+      "Spacing: 1×1 m for polyhouses; 1.5×1.5 m for open field",
+      "Starts flowering in 45–60 days after transplanting",
+      "Shrub grown in well-drained, fertile, loamy soil with full sun. Propagated through cuttings. Requires regular pruning and fertilization. Blooms best in cooler seasons."
+    ],
+    "care_instructions": [
+      "Irrigate twice a week; drip irrigation preferred",
+      "Apply NPK fertilizer and micronutrients fortnightly",
+      "Prune 6 weeks after planting; prune regularly for quality blooms",
+      "Harvest flowers at 'half-open' stage in morning",
+      "Watch for powdery mildew, aphids, and thrips",
+      "Prune after each flowering flush. Apply phosphorus-rich fertilizer for blooms. Water at base — avoid wetting leaves. Watch for black spot, aphids, and powdery mildew."
+    ],
+    "income_potential": [
+      "Very High — cut roses ₹5–₹30 per stem; dried petals ₹300–₹800/kg; rose water ₹200–₹600/litre; rose oil (attar) ₹2–₹8 lakh/litre. Polyhouse cultivation with export is highly profitable.",
+      "Cut flowers sell at ₹2–₹5 per stem. Rose water and attar (essential oil) command high prices. Tamil Nadu's Thovalai produces India's finest roses for export."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Sandalwood (Santalum album)": {
+    "canonical_name": "Sandalwood (Santalum album)",
+    "plant_name": "Sandalwood (Santalum album)",
+    "common_name": "Sandalwood",
+    "scientific_name": "Santalum album",
+    "aliases": [
+      "Sandalwood (Santalum album)",
+      "Sandalwood",
+      "Santalum album"
+    ],
+    "medicinal_uses": [
+      "Antiseptic and anti-inflammatory; treats skin diseases",
+      "Cooling; reduces body temperature and skin irritation",
+      "Anti-anxiety; aromatherapy for mental calming",
+      "Diuretic; treats urinary tract infections",
+      "Antibacterial; sandalwood oil treats acne and scars",
+      "Used in Ayurvedic formulations for fever and liver disorders"
+    ],
+    "cultivation": [
+      "Santalum album; native to Karnataka (Mysuru); cultivated in AP, TN",
+      "Tropical/subtropical climate; 12–35°C; 625–1600 mm rainfall",
+      "Well-drained red, laterite, or black soil",
+      "Propagate by seeds; hemi-parasitic plant needing host plants",
+      "Plant hosts (neem, casuarina, red gram) alongside sandalwood",
+      "Grows slowly; harvestable after 15–20 years"
+    ],
+    "care_instructions": [
+      "Minimal irrigation; moderately drought-tolerant",
+      "Apply organic manure in early years only",
+      "Ensure host plants are healthy and growing",
+      "Protect from sandalwood spike disease and spike virus",
+      "Government permission required for harvesting in some states"
+    ],
+    "income_potential": [
+      "Extremely High — heartwood sells at ₹6,000–₹12,000/kg; oil ₹2,000–₹6,000/litre. One mature tree worth ₹5–₹10 lakh. Long-term (20-year) investment but exceptional returns. Private cultivation now permitted."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Sapota (Manilkara zapota)": {
+    "canonical_name": "Sapota (Manilkara zapota)",
+    "plant_name": "Sapota (Manilkara zapota)",
+    "common_name": "Sapota",
+    "scientific_name": "Manilkara zapota",
+    "aliases": [
+      "Sapota (Manilkara zapota)",
+      "Sapota",
+      "Manilkara zapota",
+      "Sapota / Chikoo"
+    ],
+    "medicinal_uses": [
+      "Rich in tannins; treats diarrhoea and irritable bowel syndrome",
+      "High energy; beneficial for convalescents and underweight patients",
+      "Antioxidant; reduces oxidative stress",
+      "Bone health; good source of calcium and phosphorus",
+      "Reduces inflammation; bark decoction used for fever",
+      "Seed oil treats scalp conditions and dandruff",
+      "Rich in Vitamin A, C, and antioxidants. Used for energy, digestive health, bone strengthening, and reducing inflammation. Seeds have sedative properties."
+    ],
+    "cultivation": [
+      "Manilkara zapota; grown in Gujarat, Maharashtra, Karnataka, AP, TN",
+      "Tropical, warm climate; 11–34°C",
+      "Wide soil adaptability; prefers deep, well-drained sandy loam; pH 6.0–8.0",
+      "Propagate by grafting or air-layering for true-to-type plants",
+      "Spacing: 8–10 m",
+      "Bears fruit in 4–5 years from grafted plants",
+      "Tropical tree grown in well-drained, loamy soil. Drought-tolerant once mature. Propagated through grafting. Bears fruit in 3–4 years."
+    ],
+    "care_instructions": [
+      "Drought-tolerant; irrigate at 15–20 day intervals",
+      "Apply organic manure and NPK twice a year",
+      "Harvest when skin turns brownish and flesh slightly soft",
+      "Ripen post-harvest at room temperature",
+      "Watch for leaf webber caterpillar",
+      "Apply balanced fertilizer twice yearly. Water during dry spells. Control mealybugs. Harvest when fruit gives slight pressure to touch."
+    ],
+    "income_potential": [
+      "High — fresh fruit ₹30–₹70/kg. Yields 100–150 kg per tree. Consistent year-round fruiting makes it a reliable income source. Kalipatti variety is most commercially valued.",
+      "Fruit sells at ₹30–₹70/kg. India is the world's largest sapota producer. Andhra Pradesh and Karnataka are leading growing states."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Seethapala (Annona squamosa)": {
+    "canonical_name": "Seethapala (Annona squamosa)",
+    "plant_name": "Seethapala (Annona squamosa)",
+    "common_name": "Seethapala",
+    "scientific_name": "Annona squamosa",
+    "aliases": [
+      "Seethapala (Annona squamosa)",
+      "Seethapala",
+      "Annona squamosa",
+      "Sugar Apple / Custard Apple"
+    ],
+    "medicinal_uses": [
+      "Annona squamosa (Custard Apple); seed paste used as insecticide",
+      "Anti-cancer alkaloids (annonacins) studied in research",
+      "Leaf tea used to treat cold and fever",
+      "Anti-diabetic properties; bark and leaf extracts reduce blood sugar",
+      "Bark decoction used for toothache and gum infections",
+      "Rich in antioxidants; Vitamins C and B6",
+      "Fruit rich in Vitamin C, B6, and antioxidants. Seeds and leaves used as insecticides. Leaves used for treating dysentery and diabetes. Anti-cancer properties being studied."
+    ],
+    "cultivation": [
+      "Grown in Deccan plateau (Maharashtra, AP, TN, MP)",
+      "Dry tropical climate; 14–40°C; 500–800 mm rainfall",
+      "Adaptable to poor, dry soils; prefers well-drained loamy soil",
+      "Propagate by seeds; superior varieties by budding/grafting",
+      "Spacing: 5×5 m",
+      "Fruits in 3–4 years from seedlings",
+      "Tropical fruit tree grown in warm, dry regions. Grows in well-drained, slightly acidic soil. Propagated through seeds or grafting. Bears fruit in 3–4 years."
+    ],
+    "care_instructions": [
+      "Drought-tolerant once established; irrigate at fruiting stage",
+      "Apply organic manure and NPK fertilizer twice a year",
+      "Prune dead branches; light pruning after harvest",
+      "Hand-pollinate to improve fruit set in commercial orchards",
+      "Watch for mealybugs — major pest",
+      "Prune dead branches after fruiting. Hand pollination increases yield. Water during flowering and fruit set. Protect from fruit borer."
+    ],
+    "income_potential": [
+      "High — fresh fruit ₹40–₹100/kg. Gaining popularity; growing urban consumer base. Pulp and concentrate add value. DNA-improved varieties give higher sugar content and commercial appeal.",
+      "Fruit sells at ₹40–₹80/kg. Sitaphal juice and pulp are also marketed. India's custard apple industry is growing with urban demand."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Spinach1 (Spinacia oleracea)": {
+    "canonical_name": "Spinach1 (Spinacia oleracea)",
+    "plant_name": "Spinach1 (Spinacia oleracea)",
+    "common_name": "Spinach1",
+    "scientific_name": "Spinacia oleracea",
+    "aliases": [
+      "Spinach1 (Spinacia oleracea)",
+      "Spinach1",
+      "Spinacia oleracea",
+      "Spinach",
+      "Spinach / Palak (English)"
+    ],
+    "medicinal_uses": [
+      "Rich in iron; treats and prevents iron-deficiency anaemia",
+      "High in Vitamin K; promotes bone health and blood clotting",
+      "Antioxidant lutein and zeaxanthin protect eye health",
+      "Anti-cancer; phytochemicals inhibit tumour growth",
+      "Anti-inflammatory; reduces risk of chronic diseases",
+      "Improves blood pressure through nitrates and potassium",
+      "Rich in iron, folate, Vitamin K, lutein, and zeaxanthin. Used to treat anemia, support bone health, improve eye health, manage blood pressure, and reduce oxidative stress. Widely recommended for pregnant women and growing children."
+    ],
+    "cultivation": [
+      "Spinacia oleracea; grown in Punjab, Haryana, UP, HP in cool season",
+      "Cool climate (15–20°C) preferred; bolts quickly in heat",
+      "Rich, well-drained loamy soil; pH 6.0–7.0",
+      "Direct seed sowing; spacing 30×10 cm",
+      "Grows fast; ready to harvest in 30–45 days",
+      "Multiple cuttings possible from same planting",
+      "Cool-season leafy vegetable grown in well-drained, nitrogen-rich, fertile soil. Sown directly in autumn or winter months. Bolts rapidly in heat — keep to cool season. Matures in 30–45 days with successive harvests possible."
+    ],
+    "care_instructions": [
+      "Irrigate 2–3 times per week; consistent moisture essential",
+      "Apply nitrogen-rich fertilizer for lush leaf growth",
+      "Weed in early stages; plant quickly covers ground",
+      "Harvest outer leaves continuously; do not uproot entire plant",
+      "Watch for downy mildew in wet conditions",
+      "Water regularly and evenly to prevent bolting. Apply nitrogen fertilizer at planting. Harvest outer leaves first to promote regrowth. Grow only in cool weather — high temperature causes premature seeding."
+    ],
+    "income_potential": [
+      "Moderate — ₹20–₹50/kg. Year-round urban demand. Short crop duration (30–45 days) enables rapid turnover. Baby spinach for salad markets commands premium prices (₹100–₹200/kg).",
+      "Consistent urban and rural market demand. Sells at Rs 20–Rs 50/kg. Fast crop cycle with high yield per area makes it excellent for intensive vegetable farming and kitchen gardens."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Star gooseberry (Phyllanthus acidus)": {
+    "canonical_name": "Star gooseberry (Phyllanthus acidus)",
+    "plant_name": "Star gooseberry (Phyllanthus acidus)",
+    "common_name": "Star gooseberry",
+    "scientific_name": "Phyllanthus acidus",
+    "aliases": [
+      "Star gooseberry (Phyllanthus acidus)",
+      "Star gooseberry",
+      "Phyllanthus acidus"
+    ],
+    "medicinal_uses": [
+      "Phyllanthus acidus; rich in Vitamin C; boosts immunity",
+      "Liver tonic; hepatoprotective properties",
+      "Anti-diabetic; lowers blood sugar",
+      "Antioxidant; prevents cell damage",
+      "Diuretic; helps treat urinary infections",
+      "Anti-inflammatory; treats skin conditions"
+    ],
+    "cultivation": [
+      "Tropical fruit tree; grown in Kerala, Tamil Nadu, coastal Karnataka",
+      "Prefers tropical humid climate",
+      "Well-drained loamy soil; pH 5.5–7.0",
+      "Propagate by seeds, cuttings, or air-layering",
+      "Spacing: 5–6 m",
+      "Starts fruiting in 2–3 years"
+    ],
+    "care_instructions": [
+      "Water regularly; sensitive to drought",
+      "Apply organic manure annually",
+      "Prune lightly after harvest",
+      "Harvest green-yellow fruits before they become too sour",
+      "Relatively pest-free"
+    ],
+    "income_potential": [
+      "Moderate — sold in local markets at ₹20–₹50/kg. Pickles, chutneys, and dried candied products add value. Increasing health-consciousness is driving demand for Vitamin C-rich local fruits."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Sweet fennel (Foeniculum vulgare)": {
+    "canonical_name": "Sweet fennel (Foeniculum vulgare)",
+    "plant_name": "Sweet fennel (Foeniculum vulgare)",
+    "common_name": "Sweet fennel",
+    "scientific_name": "Foeniculum vulgare",
+    "aliases": [
+      "Sweet fennel (Foeniculum vulgare)",
+      "Sweet fennel",
+      "Foeniculum vulgare"
+    ],
+    "medicinal_uses": [
+      "Relieves bloating, flatulence, and digestive cramps",
+      "Galactagogue; increases breast milk production",
+      "Anti-spasmodic; relieves menstrual pain",
+      "Antioxidant anethole reduces cancer risk",
+      "Freshens breath; antimicrobial against oral bacteria",
+      "Relieves infant colic when mother consumes fennel tea"
+    ],
+    "cultivation": [
+      "Foeniculum vulgare; grown in Gujarat (Unjha), Rajasthan, UP, AP",
+      "Cool, dry climate preferred; 20–25°C",
+      "Well-drained loamy or sandy loam soil; pH 6.5–7.5",
+      "Direct seed sowing (October–November)",
+      "Spacing: 45×20 cm",
+      "Seed harvest in 130–150 days"
+    ],
+    "care_instructions": [
+      "Irrigate at 10–12 day intervals; avoid waterlogging",
+      "Apply organic manure and NPK at sowing",
+      "Weed twice in early growth stage",
+      "Harvest umbels when seeds turn yellowish-green",
+      "Watch for powdery mildew and aphids"
+    ],
+    "income_potential": [
+      "High — seeds sell at ₹100–₹250/kg; Unjha (Gujarat) is Asia's largest fennel market. Essential oil extraction adds value. Organic fennel seed has premium export demand."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Tamarind (Tamarindus indica)": {
+    "canonical_name": "Tamarind (Tamarindus indica)",
+    "plant_name": "Tamarind (Tamarindus indica)",
+    "common_name": "Tamarind",
+    "scientific_name": "Tamarindus indica",
+    "aliases": [
+      "Tamarind (Tamarindus indica)",
+      "Tamarind",
+      "Tamarindus indica",
+      "Tamarind / Imli"
+    ],
+    "medicinal_uses": [
+      "Relieves constipation with high tartaric acid and fibre content",
+      "Anti-inflammatory; treats joints pain and rheumatism",
+      "Reduces fever; antipyretic properties",
+      "Anti-diabetic; reduces blood glucose absorption",
+      "Rich in iron; prevents anaemia",
+      "Antimicrobial; seed extract treats diarrhoea and dysentery",
+      "Fruit pulp is used for digestive disorders, constipation, and fever. Rich in tartaric acid, minerals, and vitamins. Used as a laxative and anti-inflammatory food."
+    ],
+    "cultivation": [
+      "Tamarindus indica; grown in Maharashtra, Karnataka, TN, AP, MP",
+      "Tropical, dry climate; highly drought-tolerant",
+      "Deep, well-drained red or black soil; pH 5.5–9.0",
+      "Propagate by seeds (direct) or grafting for quality varieties",
+      "Spacing: 10×10 m (large trees)",
+      "Starts fruiting in 7–8 years from seed; 3–4 from grafted",
+      "Large tropical tree that grows in dry regions with well-drained soils. Extremely drought-tolerant. Propagated through seeds. Very long-lived tree."
+    ],
+    "care_instructions": [
+      "Almost no irrigation needed after establishment",
+      "Apply compost in early years",
+      "Harvest ripe pods from January–April",
+      "Store processed pulp (deseeded) in airtight containers",
+      "Very long-lived tree (200+ years); no replanting needed",
+      "Minimal care once established. Fertilize young trees. Prune lower branches for timber. Harvest pods when they turn brown and brittle."
+    ],
+    "income_potential": [
+      "High — pulp sells at ₹40–₹90/kg; seeds ₹20–₹40/kg; seed powder (industrial use) fetches more. Processed tamarind concentrate adds significant value. Andhra Pradesh and Karnataka are major producers.",
+      "Pulp sells at ₹60–₹120/kg. Seeds, bark, and pods also have commercial value. A mature tree produces 150–250 kg of fruit per year."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Taro (Colocasia esculenta)": {
+    "canonical_name": "Taro (Colocasia esculenta)",
+    "plant_name": "Taro (Colocasia esculenta)",
+    "common_name": "Taro",
+    "scientific_name": "Colocasia esculenta",
+    "aliases": [
+      "Taro (Colocasia esculenta)",
+      "Taro",
+      "Colocasia esculenta",
+      "Taro / Colocasia / Arbi"
+    ],
+    "medicinal_uses": [
+      "Colocasia esculenta; digestive fibre supports gut health",
+      "High in resistant starch; beneficial for blood sugar management",
+      "Rich in Vitamin E and C; antioxidant benefits",
+      "Leaves used as external poultice for skin inflammation",
+      "Anti-inflammatory properties in root extract",
+      "Good source of potassium; supports heart health",
+      "Corms rich in dietary fiber, Vitamin E, and antioxidants. Used for managing blood pressure, digestive health, and as an anti-inflammatory food."
+    ],
+    "cultivation": [
+      "Widely grown in Kerala, West Bengal, Assam, Odisha, Tamil Nadu",
+      "Tropical, humid climate; 21–27°C",
+      "Moist, well-drained loamy or alluvial soil; pH 5.5–7.0",
+      "Propagate by corm, cormel, or sucker divisions",
+      "Spacing: 60×45 cm",
+      "Harvest in 140–180 days",
+      "Tropical crop grown in moist, fertile soil. Propagated through corms or suckers. Requires consistent moisture. Can be grown in wetland or upland conditions."
+    ],
+    "care_instructions": [
+      "Keep soil consistently moist; tolerates waterlogged conditions",
+      "Apply organic manure and NPK fertilizer at planting",
+      "Mulch to conserve moisture",
+      "Harvest corms when leaves start yellowing",
+      "Watch for leaf blight in humid, wet conditions",
+      "Keep soil moist — sensitive to drought. Mulch heavily. Harvest corms when leaves start to yellow. Do not eat raw — contains calcium oxalate crystals."
+    ],
+    "income_potential": [
+      "Moderate — ₹15–₹40/kg. Arbi is a popular vegetable in North India; chembu in South India. Low-input crop suitable for waterlogged and flood-prone areas.",
+      "Corms sell at ₹20–₹50/kg. Leaves also sold as a vegetable. Stable demand from South Indian and Northeast Indian markets."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Tecoma (Tecoma stans)": {
+    "canonical_name": "Tecoma (Tecoma stans)",
+    "plant_name": "Tecoma (Tecoma stans)",
+    "common_name": "Tecoma",
+    "scientific_name": "Tecoma stans",
+    "aliases": [
+      "Tecoma (Tecoma stans)",
+      "Tecoma",
+      "Tecoma stans",
+      "Yellow Trumpet Flower / Tecoma"
+    ],
+    "medicinal_uses": [
+      "Tecoma stans; anti-diabetic; bark and leaf extract reduce blood glucose",
+      "Antimicrobial against common bacterial pathogens",
+      "Anti-inflammatory and analgesic properties",
+      "Used in treatment of syphilis in traditional Mexican/Indian medicine",
+      "Diuretic; relieves urinary complaints",
+      "Antispasmodic; relieves muscle cramps",
+      "Leaves and bark used for diabetes management, digestive disorders, and as an antifungal agent. Used in Mexican and Indian traditional medicine for blood sugar control."
+    ],
+    "cultivation": [
+      "Ornamental shrub/small tree; grown as roadside plant across India",
+      "Thrives in tropical and subtropical climates",
+      "Grows in any well-drained soil",
+      "Propagate by seeds or stem cuttings",
+      "Fast-growing; often used for hedging",
+      "Rarely cultivated commercially in India; mainly ornamental",
+      "Fast-growing ornamental shrub in tropical and subtropical regions. Drought-tolerant. Propagated through cuttings or seeds. Grows in poor, dry soils."
+    ],
+    "care_instructions": [
+      "Water occasionally; drought-tolerant once established",
+      "Minimal fertilizer needed",
+      "Prune to maintain shape",
+      "Harvest leaves and bark for medicinal use",
+      "Almost pest-free; very low maintenance",
+      "Prune heavily after flowering for compact shape. Full sun preferred. Minimal watering once established. Fast-growing — may need frequent pruning."
+    ],
+    "income_potential": [
+      "Low — mainly collected from wild/ornamental planting. Pharmaceutical research interest in anti-diabetic alkaloids. Limited commercial cultivation; niche demand only.",
+      "Primarily ornamental. Some demand from herbal diabetes remedy market. Used in road landscaping and boundary planting."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Tomato (Solanum lycopersicum)": {
+    "canonical_name": "Tomato (Solanum lycopersicum)",
+    "plant_name": "Tomato (Solanum lycopersicum)",
+    "common_name": "Tomato",
+    "scientific_name": "Solanum lycopersicum",
+    "aliases": [
+      "Tomato (Solanum lycopersicum)",
+      "Tomato",
+      "Solanum lycopersicum"
+    ],
+    "medicinal_uses": [
+      "Rich in lycopene; reduces risk of prostate and breast cancers",
+      "Reduces LDL cholesterol and blood pressure",
+      "High Vitamin C content boosts immunity",
+      "Anti-inflammatory; reduces risk of metabolic syndrome",
+      "Improves skin health; UV damage protection",
+      "Supports eye health with lutein and zeaxanthin"
+    ],
+    "cultivation": [
+      "Lycopersicon esculentum; major crop in AP, Karnataka, TN, Maharashtra, UP",
+      "Warm climate (20–26°C); sensitive to frost and extreme heat",
+      "Well-drained fertile loamy soil; pH 6.0–7.0",
+      "Raise seedlings in nursery (25–30 days); transplant",
+      "Spacing: 60×45 cm",
+      "Hybrid varieties mature in 60–80 days"
+    ],
+    "care_instructions": [
+      "Irrigate at 5–7 day intervals; consistent moisture prevents blossom end rot",
+      "Apply NPK fertilizer at transplanting and during fruit development",
+      "Stake plants to support weight of fruit clusters",
+      "Harvest red-ripe fruits regularly",
+      "Watch for tomato leaf curl virus and early/late blight"
+    ],
+    "income_potential": [
+      "High but volatile — yields 10–20 tonnes/acre. Price swings wildly (₹5–₹80/kg). Processing (paste, puree, ketchup) buffers price risk. India is world's second largest tomato producer."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Tulsi (Ocimum tenuiflorum)": {
+    "canonical_name": "Tulsi (Ocimum tenuiflorum)",
+    "plant_name": "Tulsi (Ocimum tenuiflorum)",
+    "common_name": "Tulsi",
+    "scientific_name": "Ocimum tenuiflorum",
+    "aliases": [
+      "Tulsi (Ocimum tenuiflorum)",
+      "Tulsi",
+      "Ocimum tenuiflorum",
+      "Holy Basil / Tulsi"
+    ],
+    "medicinal_uses": [
+      "Adaptogen; reduces physical and mental stress",
+      "Anti-viral; treats cold, flu, and fever",
+      "Antioxidant and anti-inflammatory properties",
+      "Immunomodulatory; enhances immune cell activity",
+      "Used for respiratory diseases including asthma and bronchitis",
+      "Lowers blood glucose; anti-diabetic properties",
+      "Sacred and highly medicinal plant — used for cough, cold, fever, stress, and as an adaptogen. Rich in eugenol, antioxidants, and antiviral compounds. Used during COVID-19 for immunity."
+    ],
+    "cultivation": [
+      "Ocimum sanctum; grown across India; sacred plant in every Hindu home",
+      "Tropical and subtropical climate; warm temperature preferred",
+      "Well-drained fertile loamy soil; pH 6.0–7.5",
+      "Propagate by seeds or stem cuttings",
+      "Spacing: 30×30 cm for commercial planting",
+      "First harvest of leaves in 45–60 days; multiple cuts/year",
+      "Easy to grow in warm climates in well-drained, fertile soil. Propagated through seeds or cuttings. Grows well in pots. Requires sunlight and moderate watering."
+    ],
+    "care_instructions": [
+      "Water regularly but avoid waterlogging",
+      "Apply organic compost monthly",
+      "Remove flower spikes (pinching) to boost leaf production",
+      "Harvest leaves before or just after bud formation",
+      "Watch for powdery mildew in cool, humid conditions",
+      "Remove flowers to encourage leafy growth. Prune regularly. Water moderately — avoid waterlogging. Grow near homes — acts as natural insect repellent."
+    ],
+    "income_potential": [
+      "High — essential oil (eugenol) fetches ₹500–₹2,000/kg. Dried leaf ₹100–₹300/kg. Immense demand from herbal tea, pharmaceutical, and cosmetic sectors. Easy to grow with minimal inputs.",
+      "Very high year-round demand from Ayurvedic industry. Dried leaves sell at ₹100–₹200/kg. Essential oil (eugenol) commands premium prices."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json",
+      "plant_knowledge.json"
+    ]
+  },
+  "Turmeric (Curcuma longa)": {
+    "canonical_name": "Turmeric (Curcuma longa)",
+    "plant_name": "Turmeric (Curcuma longa)",
+    "common_name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "aliases": [
+      "Turmeric (Curcuma longa)",
+      "Turmeric",
+      "Curcuma longa"
+    ],
+    "medicinal_uses": [
+      "Curcumin is most studied natural anti-inflammatory compound",
+      "Powerful antioxidant; prevents cellular damage",
+      "Anti-cancer properties in multiple cancer types",
+      "Treats arthritis; reduces joint pain and swelling",
+      "Digestive aid; relieves IBS and inflammatory bowel disease",
+      "Antimicrobial; traditional wound-healing agent"
+    ],
+    "cultivation": [
+      "Curcuma longa; grown in Andhra Pradesh, Telangana, Tamil Nadu, Odisha",
+      "Tropical, hot and humid climate; 20–35°C",
+      "Well-drained, loamy or clay-loam fertile soil; pH 5.5–7.5",
+      "Propagate by rhizome pieces (20–25 g each with buds)",
+      "Plant in April–May; spacing 30×20 cm; ridges or flat beds",
+      "Harvest in 7–9 months (December–February)"
+    ],
+    "care_instructions": [
+      "Mulch heavily at planting with paddy straw",
+      "Irrigate at 7–10 day intervals",
+      "Apply organic manure and NPK fertilizer in split doses",
+      "Earth up after 45 days to promote rhizome growth",
+      "Watch for rhizome rot (Pythium aphanidermatum)"
+    ],
+    "income_potential": [
+      "Very High — fresh turmeric ₹30–₹60/kg; dry finger ₹100–₹200/kg; organic curcumin extract ₹2,000–₹8,000/kg. India produces 80% of world's turmeric. Erode (TN) is the 'Turmeric City of the World'."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Water hyssop (Bacopa monnieri)": {
+    "canonical_name": "Water hyssop (Bacopa monnieri)",
+    "plant_name": "Water hyssop (Bacopa monnieri)",
+    "common_name": "Water hyssop",
+    "scientific_name": "Bacopa monnieri",
+    "aliases": [
+      "Water hyssop (Bacopa monnieri)",
+      "Water hyssop",
+      "Bacopa monnieri"
+    ],
+    "medicinal_uses": [
+      "Bacopa monnieri (Brahmi); enhances memory and cognitive function",
+      "Reduces anxiety, depression, and mental fatigue",
+      "Neuroprotective; used in treatment of Alzheimer's disease",
+      "Anti-epileptic; used in Ayurvedic treatment of seizures",
+      "Antioxidant; protects brain cells from oxidative damage",
+      "Anti-inflammatory and hepatoprotective effects"
+    ],
+    "cultivation": [
+      "Aquatic/semi-aquatic herb; grows along water edges across India",
+      "Cultivated commercially in UP, Kerala, West Bengal",
+      "Prefers waterlogged, moist soil or shallow water bodies",
+      "Propagate by stem cuttings or runners",
+      "Plant in pots, containers, or waterlogged fields",
+      "Harvest within 90–120 days of planting"
+    ],
+    "care_instructions": [
+      "Keep in consistently moist or wet conditions",
+      "Apply liquid organic fertilizer monthly",
+      "Harvest by cutting stems 5 cm above the base",
+      "Multiple harvests per year possible",
+      "Watch for aphids and whiteflies"
+    ],
+    "income_potential": [
+      "High — dried Brahmi herb ₹150–₹400/kg; extract and powder command much higher prices. Huge demand from Ayurvedic, nutraceutical, and brain health supplement sectors."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  },
+  "Wood apple (Limonia acidissima)": {
+    "canonical_name": "Wood apple (Limonia acidissima)",
+    "plant_name": "Wood apple (Limonia acidissima)",
+    "common_name": "Wood apple",
+    "scientific_name": "Limonia acidissima",
+    "aliases": [
+      "Wood apple (Limonia acidissima)",
+      "Wood apple",
+      "Limonia acidissima"
+    ],
+    "medicinal_uses": [
+      "Limonia acidissima; treats diarrhoea, dysentery, and colitis",
+      "Liver tonic; promotes healthy liver function",
+      "Anti-diabetic; reduces blood glucose",
+      "Rich in iron; treats anaemia",
+      "Bark extract used for snakebite treatment in tribal medicine",
+      "Cooling fruit; reduces body heat in summer"
+    ],
+    "cultivation": [
+      "Grown in dry, tropical regions — UP, MP, Rajasthan, TN, Karnataka",
+      "Highly drought-tolerant; ideal for arid and wasteland farming",
+      "Grows in any soil type; prefers well-drained sandy loam",
+      "Propagate by seeds; improved varieties by grafting",
+      "Spacing: 8–10 m",
+      "Fruiting starts from 15 years (seedling); 7–8 years (grafted)"
+    ],
+    "care_instructions": [
+      "Minimal irrigation after establishment; thrives on rainfall",
+      "Minimal fertilizer; apply compost in early years",
+      "Harvest mature fruits (October–January)",
+      "Very long-lived and hardy tree",
+      "No major pest or disease issues"
+    ],
+    "income_potential": [
+      "Moderate — fresh fruit ₹20–₹60/kg; pulp and beverages add value. Grows in wastelands where other crops fail. Good for tribal economy and social forestry."
+    ],
+    "source_files": [
+      "indian_herbal_plants (1).json"
+    ]
+  }
+}
