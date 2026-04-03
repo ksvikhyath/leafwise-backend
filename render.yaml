@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: leafwise-backend
+    env: python
+    region: singapore   # closest free region to Bengaluru
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: HF_REPO_ID
+        value: Hru-Code/Leaf-Wise   # ← change this
+      - key: HF_TOKEN
+        sync: false   # you will paste this manually in Render dashboard
