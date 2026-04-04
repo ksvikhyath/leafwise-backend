@@ -20,7 +20,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-HF_REPO_ID  = os.environ.get("HF_REPO_ID", "YOUR_HF_USERNAME/leafwise-beit")
+HF_REPO_ID  = os.environ.get("HF_REPO_ID", "Hru-Code/Leaf-Wise")
 HF_TOKEN    = os.environ.get("HF_TOKEN", None)
 MODELS_DIR  = Path("./models_cache")
 MODELS_DIR.mkdir(exist_ok=True)
